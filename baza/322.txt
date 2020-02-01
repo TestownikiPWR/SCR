@@ -1,0 +1,4 @@
+X10
+W schematach stronicowanej alokacji pamiêci istnieje zjawisko fragmentacji wewnêtrznej
+TAK
+NIE

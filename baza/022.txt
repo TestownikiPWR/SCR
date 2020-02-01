@@ -1,0 +1,4 @@
+X10
+W systemie ze stronicowaniem, ka¿de odwo³anie do pamiêci wymaga translacji adresu
+TAK
+NIE

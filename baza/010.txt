@@ -1,0 +1,4 @@
+X01
+Ofiar¹ (victim) nazywa siê stronê pamiêci przenoszon¹ do pamiêci fizycznej w procesie obs³ugi b³êdu strony
+TAK
+NIE

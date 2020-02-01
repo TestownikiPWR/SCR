@@ -1,0 +1,4 @@
+X01
+Wielkoœæ bloku nie ma wp³ywu na efektywnoœæ operacji dyskowych
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+W systemach stronicowanej alokacji pamiêci istnieje zjawisko fragmentacji zewnêtrznej
+TAK
+NIE

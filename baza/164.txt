@@ -1,0 +1,4 @@
+X01
+Tablica alokacji FAT jest metod¹ alokacji ci¹g³ej
+TAK
+NIE

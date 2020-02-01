@@ -1,0 +1,4 @@
+X01
+W ataku poœrednika atakuj¹cy pos³uguje siê kluczami prywatnymi i rzeczywistych komunikuj¹cych siê stron
+TAK
+NIE

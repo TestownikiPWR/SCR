@@ -1,0 +1,4 @@
+X01
+Model w¹tków daje wiêksza wspó³bie¿noœæ dzia³ania programów w porównaniu z modelem procesów
+TAK
+NIE

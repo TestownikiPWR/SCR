@@ -1,0 +1,4 @@
+X01
+Algorytm C-SCAN dokonuje operacji zapisu i odczytu podczas ruchu g³owicy w obie strony
+TAK
+NIE

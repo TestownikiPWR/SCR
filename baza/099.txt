@@ -1,0 +1,4 @@
+X10
+Operacje I/O sterowane przerwaniami s¹ z regu³y korzystniejsze ni¿ programowane operacje I/O
+TAK
+NIE

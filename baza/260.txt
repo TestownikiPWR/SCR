@@ -1,0 +1,4 @@
+X01
+Arbitra¿ jest metod¹ wyboru topologii sieci: magistralowej lub pierœcieniowej
+TAK
+NIE

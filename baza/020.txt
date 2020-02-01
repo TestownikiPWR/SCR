@@ -1,0 +1,4 @@
+X10
+Informacje s³u¿¹ce do ochrony pamiêci mog¹ byæ zawarte w tablicy stron
+TAK
+NIE

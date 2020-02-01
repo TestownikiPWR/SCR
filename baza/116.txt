@@ -1,0 +1,4 @@
+X10
+Zwiêkszenie kwantu czasu mo¿e spowodowaæ zmniejszenie strat wynikaj¹cych z prze³¹czania kontekstu
+TAK
+NIE

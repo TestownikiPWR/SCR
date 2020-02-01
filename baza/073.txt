@@ -1,0 +1,4 @@
+X01
+Semafor jest szczególnym przypadkiem muteksu
+TAK
+NIE

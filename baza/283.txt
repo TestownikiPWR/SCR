@@ -1,0 +1,4 @@
+X01
+Zmienna warunkowate pozwala w¹tkom komunikujucym sic przez pamiêæ wspóln¹ na sprawdzanie warunków logicznych
+TAK
+NIE

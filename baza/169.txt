@@ -1,0 +1,4 @@
+X10
+Jeœli montowany system plików zostanie w³¹czony do niepustego katalogu, to tymczasowo przes³ania czêœæ podstawowej struktury katalogów
+TAK
+NIE

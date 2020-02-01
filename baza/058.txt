@@ -1,0 +1,4 @@
+X01
+Muteks pozwala implementowaæ bardziej drobnoziarnista równoleg³oœæ obliczeñ ni¿ blokady zapisu i odczytu
+TAK
+NIE

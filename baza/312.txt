@@ -1,0 +1,4 @@
+X10
+Wytypowanie ofiary jest czêœci¹ procedury zastêpowania stron
+TAK
+NIE

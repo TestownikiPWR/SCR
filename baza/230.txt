@@ -1,0 +1,4 @@
+X10
+Operacje wejœcia/wyjœcia sterowane przerwaniami to jedno z trzech g³ównych podejœæ do implementacji operacji wejœcia/wyjœcia
+TAK
+NIE

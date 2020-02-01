@@ -1,0 +1,4 @@
+X10
+Sygna³y w systemie UNIX mog¹ byæ generowane zarówno przez sprzêt jak i oprogramowanie
+TAK
+NIE

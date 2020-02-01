@@ -1,0 +1,4 @@
+X10
+Operacje zapisu w RAID 0 s¹ z regu³y szybsze ni¿ w RAID 1 przy zastosowaniu takich samych dysków
+TAK
+NIE

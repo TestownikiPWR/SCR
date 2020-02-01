@@ -1,0 +1,4 @@
+X10
+TLS jest protoko³em bezpiecznej komunikacji w Internecie stosuj¹cym szyfrowanie kluczem publicznym
+TAK
+NIE

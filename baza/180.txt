@@ -1,0 +1,4 @@
+X10
+Transmisja multicast jest podobna bardziej do transmisji breadcast ni¿ unicast
+TAK
+NIE

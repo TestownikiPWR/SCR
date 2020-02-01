@@ -1,0 +1,4 @@
+X01
+Operacje I/O sterowane przerwaniami s¹ ogólnie szybsze ni¿ programowane operacje I/O
+TAK
+NIE

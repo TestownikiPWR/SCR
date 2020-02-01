@@ -1,0 +1,4 @@
+X01
+Przyk³adami urz¹dzeñ strumieniowych s¹ dyski i taœmy, gdy¿ ich transfer odbywa siê jednostkami o zmiennej d³ugoœci
+TAK
+NIE

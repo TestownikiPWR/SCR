@@ -1,0 +1,4 @@
+X01
+Metoda pierwszego dopasowania alokacji ciaglej wymaga wiêkszego nak³adu pracy ni¿ metoda najlepszego dopasowania
+Tak
+Nie

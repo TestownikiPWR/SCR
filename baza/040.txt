@@ -1,0 +1,4 @@
+X01
+Proces zombie jest procesem, który nie mo¿e byæ usuniêty przez system ze wzglêdu na niepoprawne zachowanie potomka
+TAK
+NIE

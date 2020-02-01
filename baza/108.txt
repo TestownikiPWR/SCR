@@ -1,0 +1,4 @@
+X01
+Strategia planowania FCFS (First-Come-First-Served) mo¿e doprowadziæ do zag³odzenia pewnych procesów
+TAK
+NIE

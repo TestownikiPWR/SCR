@@ -1,0 +1,4 @@
+X10
+Jeden proces mo¿e zawieraæ tylko jeden watek lub proces mo¿e sk³adaæ siê z kilku w¹tków
+TAK
+NIE

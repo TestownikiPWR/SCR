@@ -1,0 +1,4 @@
+X01
+Ethernet rozwi¹zuje kolizje transmisji przez chwilowe wstrzymanie prób wysy³ania przez jedna ze stron
+TAK
+NIE

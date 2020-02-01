@@ -1,0 +1,4 @@
+X10
+Wielkoœæ bloku mo¿e prowadziæ do fragmentacji wewnêtrznej
+TAK
+NIE

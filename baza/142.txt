@@ -1,0 +1,4 @@
+X01
+Dowi¹zania (linki) w systemie plików pozwalaj¹ na tworzenie acyklicznej, niedrzewiastej struktury katalogów
+TAK
+NIE

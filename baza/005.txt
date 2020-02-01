@@ -1,0 +1,4 @@
+X10
+Proces w czasie pracy pos³uguje siê adresami logicznymi
+Tak
+Nie

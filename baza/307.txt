@@ -1,0 +1,4 @@
+X01
+Algorytm SSTF najpierw obs³uguje zadania dostêpu otrzymane jako ostatnie
+TAK
+NIE

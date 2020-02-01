@@ -1,0 +1,4 @@
+X10
+Niektóre systemy pozwalaj¹ na operacje na wielu systemach plików jednoczeœnie
+TAK
+NIE

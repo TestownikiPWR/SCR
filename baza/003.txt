@@ -1,0 +1,4 @@
+X01
+Proces zamiany adresów fizycznych na logiczne nazywa siê translacja adresów
+Tak
+Nie

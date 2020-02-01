@@ -1,0 +1,4 @@
+X01
+W systemie alokacji ci¹g³ej mo¿liwe jest wykonywanie programu, którego zapotrzebowanie pamiêci przekracza pojemnoœæ dostêpnej pamiêci fizycznej
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Zadaniem infrastruktury klucza publicznego jest generowane certyfikatów potwierdzaj¹cych autentycznoœæ kluczy szyfrowania
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Pozycjonowanie na plikach (seek) zwykle mo¿e byæ efektywnie realizowane przez program u¿ytkownika
+TAK
+NIE

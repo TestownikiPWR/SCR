@@ -1,0 +1,4 @@
+X01
+Szyfrowanie symetryczne daje mo¿liwoœæ bezpiecznego przekazywania kluczy szyfrowania
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Tik jest jednostk¹ w jakiej mierzy czas zegar procesora
+TAK
+NIE

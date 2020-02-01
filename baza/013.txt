@@ -1,0 +1,4 @@
+X10
+Fragmentacje wewnêtrzn¹ mo¿na minimalizowaæ stosuj¹c ma³e jednostki alokacji
+TAK
+NIE

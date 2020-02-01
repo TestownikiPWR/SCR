@@ -1,0 +1,4 @@
+X01
+G³ównym system odmierzaj¹cym czas w systemie jest RTC
+TAK
+NIE

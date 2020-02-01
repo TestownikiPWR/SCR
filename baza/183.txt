@@ -1,0 +1,4 @@
+X10
+Ethernet zrealizowany za pomoc¹ prze³¹czników (switch) pozwala separowaæ ruch w ró¿nych segmentach
+TAK
+NIE

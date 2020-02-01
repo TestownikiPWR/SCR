@@ -1,0 +1,4 @@
+X10
+Nierównomiernoœci¹ (jitter) timera mo¿e byæ spowodowana w³asnoœciami sprzêtu obliczeniowego
+TAK
+NIE

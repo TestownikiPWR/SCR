@@ -1,0 +1,4 @@
+X01
+Dryfem timera nazywamy b³¹d polegaj¹cy na spóŸnionym wykonaniu akcji przeterminowanego timera
+TAK
+NIE

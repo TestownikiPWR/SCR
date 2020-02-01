@@ -1,0 +1,4 @@
+X10
+Buforowanie umo¿liwia po³¹czenie nadawcy i odbiorcy dzia³aj¹cych w ró¿nych prêdkoœciach
+TAK
+NIE

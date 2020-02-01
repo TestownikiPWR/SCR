@@ -1,0 +1,4 @@
+X01
+Schemat RAID 1 zwiêksza prêdkoœæ zarówno przy odczycie jak i zapisie
+TAK
+NIE

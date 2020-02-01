@@ -1,0 +1,4 @@
+X10
+Stronicowanie na ¿¹danie polega na sprowadzaniu do pamiêci fizycznej tylko takich stron pamiêci, do których odwo³uje siê proces
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Zastosowanie ci¹g³ej alokacji bloków do implementacji plików pozwala na bezpoœredni oraz sekwencyjny dostêp do plików
+TAK
+NIE

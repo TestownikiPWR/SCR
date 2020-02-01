@@ -1,0 +1,4 @@
+X01
+Komunikacja przez pamiêæ wspólna jest automatycznie synchronizowana podobnie jak komunikacja przez potoki
+TAK
+NIE

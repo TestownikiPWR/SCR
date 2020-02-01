@@ -1,0 +1,4 @@
+X10
+Zmienna warunkowa s³u¿y do sygnalizacji spe³nienia warunku oczekuj¹cym na niej w¹tkom lub procesom
+TAK
+NIE

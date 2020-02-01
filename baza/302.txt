@@ -1,0 +1,4 @@
+X01
+W macierzy RAID 5 wiêksza liczba dysków oznacza wiêksze bezpieczeñstwo danych
+TAK
+NIE

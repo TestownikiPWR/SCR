@@ -1,0 +1,4 @@
+X10
+Bufory s¹ obszarami pamiêci stosowanymi w celu tymczasowego przechowania danych transferowych pomiêdzy urz¹dzeniami, albo miedzy urz¹dzeniem, a programem
+TAK
+NIE

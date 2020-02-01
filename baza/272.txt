@@ -1,0 +1,4 @@
+X10
+Timer typowo mo¿na zaprogramowaæ, aby po okreœlonym czasie przysy³a³ sygna³ do procesu/w¹tku
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Programowane operacje I/O z regu³y powoduj¹ mniejsze obci¹¿enie procesora ni¿ operacje I/O sterowane przerwaniami
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Bezpoœredni dostêp do pamiêci to jedno z trzech g³ównych podejœæ do implementacji operacji wejœcia / wyjœcia
+TAK
+NIE

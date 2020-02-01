@@ -1,0 +1,4 @@
+X01
+Tablica stron pamiêci wykorzystywana jest w systemach alokacji ci¹g³ej
+TAK
+NIE

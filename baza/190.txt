@@ -1,0 +1,4 @@
+X01
+W komunikacji bezpo³¹czeniowej pakiety zawsze odbierane s¹ w kolejnoœci ich nadania
+TAK
+NIE

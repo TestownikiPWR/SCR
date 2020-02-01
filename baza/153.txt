@@ -1,0 +1,4 @@
+X01
+Zazwyczaj system operacyjny mo¿e obs³ugiwaæ pliki tylko jednego typu
+TAK
+NIE

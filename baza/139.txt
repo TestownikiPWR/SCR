@@ -1,0 +1,4 @@
+X10
+Dowi¹zania twarde (hard links) w systemach plików pozwalaj¹ na tworzenie cykli skierowanych w strukturze katalogów
+TAK
+NIE

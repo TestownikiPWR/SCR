@@ -1,0 +1,4 @@
+X01
+Dla plików o strukturze indeksowanej prostym i naturalnym sposobem dostêpu jest dostêp sekwencyjny
+TAK
+NIE

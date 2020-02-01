@@ -1,0 +1,4 @@
+X01
+Stan uœpienia procesu oznacza oczekiwanie na przydzia³ pamiêci
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Wartoœæ time_t s³u¿y do okreœlania czasu rzeczywistego (kalendarzowego) jako liczba sekund
+TAK
+NIE

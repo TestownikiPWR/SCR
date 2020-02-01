@@ -1,0 +1,4 @@
+X10
+DMA umo¿liwia bezpoœredni dostêp do pamiêci systemu komputerowego
+TAK
+NIE

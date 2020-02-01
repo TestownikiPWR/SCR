@@ -1,0 +1,4 @@
+X10
+Przy przenoszeniu programu, w którym adresy pamiêci sa bezwzglêdne, na inne miejsce w pamiêci, trzeba dokonaæ rekompilacji
+TAK
+NIE

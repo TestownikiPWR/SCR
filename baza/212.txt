@@ -1,0 +1,4 @@
+X10
+Kod jest przemieszczalny, jeœli wszystkie adresy w nim zawarte s¹ wzglêdne
+TAK
+NIE

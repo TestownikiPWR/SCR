@@ -1,0 +1,4 @@
+X01
+Strategia planowania RR (Round-Robin) ogólnie powoduje ma³e narzuty administracyjne na prze³¹czanie kontekstu
+TAK
+NIE

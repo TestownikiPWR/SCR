@@ -1,0 +1,4 @@
+X10
+Odczyt z taœm magnetycznych odbywa siê sekwencyjnie
+TAK
+NIE

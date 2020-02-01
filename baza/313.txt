@@ -1,0 +1,4 @@
+X01
+Zastêpowanie stron jest czêœci¹ procedury wytypowania ofiary
+TAK
+NIE

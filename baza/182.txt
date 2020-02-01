@@ -1,0 +1,4 @@
+X01
+W komunikacji po³¹czeniowej, aby odpowiedzieæ nadawcy, odbiorca zawsze musi znaæ identyfikacjê (adres) nadawcy
+TAK
+NIE

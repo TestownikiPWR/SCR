@@ -1,0 +1,4 @@
+X10
+Wielopoziomowe kolejki planowania pozwalaj¹ stosowaæ ró¿ne algorytmy planowania dla zadañ interakcyjnych i obliczeniowych
+TAK
+NIE

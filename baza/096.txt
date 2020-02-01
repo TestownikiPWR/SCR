@@ -1,0 +1,4 @@
+X01
+Zastosowanie algorytmu planowania FCFS (First-Come-First-Served) wymaga znajomoœci czasu obliczeñ (fazy procesora) planowanych zadañ
+TAK
+NIE

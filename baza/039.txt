@@ -1,0 +1,4 @@
+X10
+Wszystkie procesy w systemie UNIX tworzone s¹ przez klonowanie funkcja fork ( z wyj¹tkiem procesu init)
+TAK
+NIE

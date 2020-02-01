@@ -1,0 +1,4 @@
+X10
+Listowa alokacja bloków pozwala tylko na dostêp sekwencyjny
+TAK
+NIE

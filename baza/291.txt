@@ -1,0 +1,4 @@
+X10
+W systemie pamiêci wirtualnej, system operacyjny realizuje wymiatanie i przywracanie procesów
+TAK
+NIE

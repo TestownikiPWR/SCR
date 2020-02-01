@@ -1,0 +1,4 @@
+X01
+Zbiorem roboczym procesu nazywamy jego ca³kowit¹ alokacje pamiêci wirtualnej
+TAK
+NIE

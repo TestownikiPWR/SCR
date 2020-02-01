@@ -1,0 +1,4 @@
+X01
+W mapie bitowej pojedynczy bit reprezentuje blok dyskowy i ma wartoœæ 0, gdy blok dyskowy jest wolny
+TAK
+NIE

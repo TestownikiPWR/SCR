@@ -1,0 +1,4 @@
+X10
+W porównaniu z pojedynczym dyskiem schemat RAID 0 pozwala wykorzystaæ wiêksza pojemnoœæ
+TAK
+NIE

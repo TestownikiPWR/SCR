@@ -1,0 +1,4 @@
+X01
+Fragmentacje wewnêtrzn¹ mo¿na minimalizowaæ przez defragmentacje
+TAK
+NIE

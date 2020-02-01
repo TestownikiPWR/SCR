@@ -1,0 +1,4 @@
+X10
+Stosowanie mapy bitowej (wektora bitów) pozwala na zarz¹dzanie pul¹ wolnych bloków dyskowych w systemie plików
+TAK
+NIE

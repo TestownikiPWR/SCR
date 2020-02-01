@@ -1,0 +1,4 @@
+X10
+Drobnoziarnistoœæ semafora jest wiêksza od muteksa
+TAK
+NIE

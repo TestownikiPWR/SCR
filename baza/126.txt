@@ -1,0 +1,4 @@
+X01
+Timery typowo mog¹ odmierzaæ czas zarówno do przodu jak i do ty³u
+TAK
+NIE

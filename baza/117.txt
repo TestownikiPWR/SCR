@@ -1,0 +1,4 @@
+X10
+Zag³odzenie w planowaniu procesów oznacza odbieranie jednemu procesowi przydzielonych mu wczeœniej zasobów
+TAK
+NIE

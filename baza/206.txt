@@ -1,0 +1,4 @@
+X01
+Czy stan niebezpieczny to taki, w którym wystêpuj¹ zakleszczenia
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Strategia planowania SRTF (Shortest-Remaining-Time-First) jest algorytmem wyw³aszczaj¹cym
+TAK
+NIE

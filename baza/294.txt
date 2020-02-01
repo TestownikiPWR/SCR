@@ -1,0 +1,4 @@
+X10
+W systemie pamiêci wirtualnej mo¿liwe jest wykonywanie programu, którego zapotrzebowanie pamiêci przekracza pojemnoœæ dostêpnej pamiêci fizycznej systemu
+TAK
+NIE

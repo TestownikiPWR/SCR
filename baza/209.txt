@@ -1,0 +1,4 @@
+X10
+Cykl skierowany na grafie alokacji zasobów wskazuje zakleszczenie pomiêdzy procesami
+TAK
+NIE

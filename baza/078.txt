@@ -1,0 +1,4 @@
+X10
+Unikanie zakleszczeñ polega na analizowaniu warunków przydzia³u zasobu, aby nie dopuœciæ do powstania zakleszczenia
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Semantyka kopii zapewnia, ze wersja danych zapisana przez aplikacje na dysku bêdzie wersja z chwili odwo³ania siê przez aplikacje do systemu
+TAK
+NIE

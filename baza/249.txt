@@ -1,0 +1,4 @@
+X10
+Szyfrowanie symetryczne oznaczy metodê szyfrowania, w której klucz szyfrowania zarazem s³u¿y do deszyfrowania
+TAK
+NIE

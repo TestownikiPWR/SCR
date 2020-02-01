@@ -1,0 +1,4 @@
+X01
+W systemach wejœcia / wyjœcia: bezpoœredni dostêp do pamiêci : g³ówny procesor wykonuje operacje I/O, a dedykowany Procesor DMA tylko inicjuje
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Gdy przenosimy kod programu w trakcie jego dzia³ania wymagane jest wsparcie sprzêtowe dla przeliczania wszystkich adresów wzglêdem adresu pocz¹tkowego programu (uproœciæ)
+TAK
+NIE

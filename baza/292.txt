@@ -1,0 +1,4 @@
+X10
+W systemie pamiêci wirtualnej, proces pos³uguje siê pamiêci¹ logiczna, adresowana liniowo w sposób ci¹g³y od zera
+TAK
+NIE

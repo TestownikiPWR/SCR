@@ -1,0 +1,4 @@
+X10
+Cztery dyski twarde o pojemnoœci 100GB po³¹czone w macierz RAID 5 udostêpnia przestrzeñ o pojemnoœci 300GB
+TAK
+NIE

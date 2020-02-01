@@ -1,0 +1,4 @@
+X01
+W przypadku wi¹zania na etapie wykonania adres fizyczny jest identyczny z logicznym
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Algorytmy szeregowania operacji dysku maj¹ na celu optymalizacje czasu opóŸnienia rotacyjnego dysku
+TAK
+NIE

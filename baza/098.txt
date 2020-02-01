@@ -1,0 +1,4 @@
+X10
+W zamkniêtych systemach z planowaniem priorytetowym mo¿na stosowaæ statyczny przydzia³ priorytetów
+TAK
+NIE

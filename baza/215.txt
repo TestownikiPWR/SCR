@@ -1,0 +1,4 @@
+X01
+Metoda najlepszego dopasowania ci¹g³ej alokacji pamiêci wymaga mniejszego nak³adu pracy w porównaniu z metod¹ pierwszego dopasowania
+TAK
+NIE

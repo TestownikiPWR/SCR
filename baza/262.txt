@@ -1,0 +1,4 @@
+X10
+Dryfem timera nazywamy b³¹d wynikaj¹cy z kumulowania siê w pracy cyklicznej drobnych b³êdów
+TAK
+NIE

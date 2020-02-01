@@ -1,0 +1,4 @@
+X10
+Podpis cyfrowy jest dokumentem lub jego skrótem zaszyfrowany kluczem prywatnym nadawcy
+TAK
+NIE

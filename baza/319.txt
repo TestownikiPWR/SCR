@@ -1,0 +1,4 @@
+X10
+Strategia planowania FCFS (First-Come-First-Served) nadaje siê do planowania zadañ t³a (obliczeniowych)
+TAK
+NIE

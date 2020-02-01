@@ -1,0 +1,4 @@
+X01
+Adresy logiczne obliczane s¹ w trakcie kompilacji
+TAK
+NIE

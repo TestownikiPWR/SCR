@@ -1,0 +1,4 @@
+X10
+Transmisja typu rozg³aszania (broadcast) umo¿liwia dostarczenie komunikatów nieznanym odbiorcom
+TAK
+NIE

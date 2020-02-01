@@ -1,0 +1,4 @@
+X01
+Wyœcigi maj¹ miejsce, kiedy dwa równoleg³e w¹tki wspólnie powoduj¹ b³¹d w dostêpie do wspólnej pamiêci
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+W¹tki u¿ytkownika mog¹ byæ wykonywane na wielu procesorach/ rdzeniach tak samo jak watki jadra
+TAK
+NIE

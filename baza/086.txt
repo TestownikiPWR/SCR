@@ -1,0 +1,4 @@
+X10
+Numerowanie zasobów pozwala na unikanie zakleszczeñ
+TAK
+NIE

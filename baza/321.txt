@@ -1,0 +1,4 @@
+X10
+Zbiorem roboczym procesu nazywamy zestaw stron pamiêci w ramach, których chwilowo pracuje
+TAK
+NIE

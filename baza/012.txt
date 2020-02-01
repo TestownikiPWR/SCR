@@ -1,0 +1,4 @@
+X01
+Tablica stron pamiêci zawiera adresy wirtualne przydzielonych stron pamiêci procesu
+TAK
+NIE

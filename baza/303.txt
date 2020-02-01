@@ -1,0 +1,4 @@
+X10
+Standard RAID 6 jest odporny na awarie w tym samym czasie dwóch dysków macierzy
+TAK
+NIE

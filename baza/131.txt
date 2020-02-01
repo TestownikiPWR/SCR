@@ -1,0 +1,4 @@
+X01
+Nierównomiernoœci¹ (jitter) nazywamy b³¹d wynikaj¹cy z kumulowania siê w pracy cyklicznej timera drobnych b³êdów
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Dla plików o strukturze ci¹gu bajtów prostym i naturalnym sposobem dostêpu jest dostêp sekwencyjny
+TAK
+NIE

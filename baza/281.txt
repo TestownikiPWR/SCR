@@ -1,0 +1,4 @@
+X01
+Zmienna warunkowa s³u¿y do przesy³ania danych oczekuj¹cym na niej w¹tkom lub procesom
+TAK
+NIE

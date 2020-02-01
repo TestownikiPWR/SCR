@@ -1,0 +1,4 @@
+X10
+Skróty kryptograficzne stosuje siê w celu wygodnej weryfikacji identycznoœci dokumentów
+TAK
+NIE

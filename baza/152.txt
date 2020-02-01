@@ -1,0 +1,4 @@
+X10
+Struktura plików indeksowych sk³ada siê z indeksu i w³aœciwej czêœci danych
+TAK
+NIE

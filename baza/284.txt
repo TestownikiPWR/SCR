@@ -1,0 +1,4 @@
+X10
+Odblokowanie muteksa umo¿liwia wykonanie przez w¹tki krytycznej sekcji programu
+TAK
+NIE

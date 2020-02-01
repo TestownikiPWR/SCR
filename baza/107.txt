@@ -1,0 +1,4 @@
+x01
+Strategia planowania SJF (Shortest-Jobtime-First) jest algorytmem wyw³aszczaj¹cym
+TAK
+NIE

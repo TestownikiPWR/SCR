@@ -1,0 +1,4 @@
+X10
+Czy graf œciœle jest zwi¹zany z wystêpowaniem zakleszczeñ jest skierowany (niepe³ne pytanie)
+TAK
+NIE

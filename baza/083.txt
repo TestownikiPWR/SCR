@@ -1,0 +1,4 @@
+X10
+Algorytm wykrywania zakleszczeñ nale¿y wykonywaæ przy ka¿dym nowym ¿¹daniu alokacji zasobu
+TAK
+NIE

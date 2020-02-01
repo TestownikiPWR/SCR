@@ -1,0 +1,4 @@
+X10
+Liczba nice umo¿liwia u¿ytkownikom/programistom wp³ywanie na planowanie procesów w systemie
+TAK
+NIE

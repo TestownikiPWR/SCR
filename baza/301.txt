@@ -1,0 +1,4 @@
+X01
+Awaria dowolnego dysku w RAID 1 powoduje utratê danych
+TAK
+NIE

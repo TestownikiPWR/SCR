@@ -1,0 +1,4 @@
+X01
+Strategia planowania SJF (Shortest-Jobtime-First) nadaje siê do planowania zadañ interakcyjnych
+TAK
+NIE

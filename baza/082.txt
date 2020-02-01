@@ -1,0 +1,4 @@
+X10
+Graf alokacji zasobów pozwala przedstawiæ zasoby przydzielone procesom
+TAK
+NIE

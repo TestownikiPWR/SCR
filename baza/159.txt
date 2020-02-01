@@ -1,0 +1,4 @@
+X10
+Implementacja plików na dyskach magnetycznych umo¿liwia bezpoœredni dostêp do pliku
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Muteks jest do u¿ycia przez u¿ytkownika, program, jak i system operacyjny
+TAK
+NIE

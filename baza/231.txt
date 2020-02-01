@@ -1,0 +1,4 @@
+X10
+Buforowanie operacji I/O jest stosowane w celu dostosowania ró¿nych jednostek transferu Ÿród³a i odbiorcy danych (miedzy innymi)
+TAK
+NIE

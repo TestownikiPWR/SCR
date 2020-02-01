@@ -1,0 +1,4 @@
+X10
+Prze³¹czanie kontekstu jest operacj¹ wykonywan¹ przez despozytora (dispatcher) przy realizacji planowania procesów
+TAK
+NIE

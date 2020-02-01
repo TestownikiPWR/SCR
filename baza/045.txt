@@ -1,0 +1,4 @@
+X10
+Procesy s¹ tworzone w celu podzia³u obliczeñ na wiele (quasi) równolegle wykonywanych zadañ
+TAK
+NIE

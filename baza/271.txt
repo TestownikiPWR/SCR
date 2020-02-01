@@ -1,0 +1,4 @@
+X01
+Schemat piramidy pamiêci jest stosowany w celu zapewnienia przydzia³u pamiêci procesom o wysokim priorytecie
+TAK
+NIE

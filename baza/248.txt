@@ -1,0 +1,4 @@
+X01
+Metoda szyfrowania z kluczem publicznym gwarantuje, ¿e klucz publiczny odbiorcy jest poprawny
+TAK
+NIE

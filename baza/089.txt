@@ -1,0 +1,4 @@
+X01
+Graf alokacji zasobów pozwala przedstawiæ zasoby zwolnione przez procesy
+TAK
+NIE

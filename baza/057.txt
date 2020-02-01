@@ -1,0 +1,4 @@
+X01
+Barierê mo¿na wykorzystaæ do zablokowania w¹tkowi lub procesowi dostêpu do jakiegoœ zasobu
+TAK
+NIE

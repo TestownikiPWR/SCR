@@ -1,0 +1,4 @@
+X01
+Dokument podpisany cyfrowo oznacza dokument zaszyfrowany kluczem publicznym nadawcy
+TAK
+NIE

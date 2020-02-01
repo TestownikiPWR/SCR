@@ -1,0 +1,4 @@
+X01
+Przy stosowaniu metody zapobiegania, wszystkie warunki konieczne do powstania zakleszczeñ s¹ prawdziwe
+TAK
+NIE

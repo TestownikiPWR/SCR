@@ -1,0 +1,4 @@
+X10
+Algorytmy szeregowania operacji dyskowych maj¹ g³ownie na celu optymalizacje czasu przesuniêcia g³owicy dysku
+TAK
+NIE

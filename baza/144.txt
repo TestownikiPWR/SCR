@@ -1,0 +1,4 @@
+X01
+U¿ycie listy wskaŸnikowej do obs³ugi puli wolnych bloków dyskowych daje przydzia³ i zwalnianie pojedynczych bloków w sta³ym czasie
+TAK
+NIE

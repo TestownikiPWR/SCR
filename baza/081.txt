@@ -1,0 +1,4 @@
+X10
+Celem numerowania zasobów jest zapewnienie ustalonej kolejnoœci przydzia³u zasobów, by unikn¹æ pêtli
+TAK
+NIE

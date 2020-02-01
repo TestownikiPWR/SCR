@@ -1,0 +1,4 @@
+X01
+Muteks jest zmienn¹ logiczn¹, której funkcje obs³ugi musz¹ byæ implementowane przez program u¿ytkownika
+TAK
+NIE

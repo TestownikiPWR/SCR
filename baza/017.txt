@@ -1,0 +1,4 @@
+X01
+Wymiatanie jest procedura obs³ugi b³êdu strony w systemie pamiêci wirtualnej
+TAK
+NIE

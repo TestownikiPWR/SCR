@@ -1,0 +1,4 @@
+X01
+Warunkiem powstania zakleszczenia jest obs³uga wyw³aszczania zasobów przez system
+TAK
+NIE

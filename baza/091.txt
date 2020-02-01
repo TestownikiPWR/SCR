@@ -1,0 +1,4 @@
+X01
+Usuwanie zakleszczeñ mo¿na realizowaæ przez przydzielenie dodatkowych zasobów
+TAK
+NIE

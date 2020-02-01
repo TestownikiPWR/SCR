@@ -1,0 +1,4 @@
+X10
+Prawa dostêpu NFS s¹ oparte na identyfikatorach u¿ytkownika, co wymaga stosowania jednolitego systemu identyfikatorów w ca³ej jednostce
+TAK
+NIE

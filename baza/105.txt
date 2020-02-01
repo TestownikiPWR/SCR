@@ -1,0 +1,4 @@
+X01
+Prze³¹czanie kontekstu jest operacj¹ wykonywan¹ przez proces pragn¹cy przejœæ do stanu uœpienia
+TAK
+NIE

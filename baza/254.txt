@@ -1,0 +1,4 @@
+X10
+Tunel ssh s³u¿y do przekazywania komunikacji innych serwisów i protoko³ów szyfrowanym kana³em 
+TAK
+NIE

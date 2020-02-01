@@ -1,0 +1,4 @@
+X10
+Strategia planowania SJF (Shortest-Jobtime-First) mo¿e doprowadziæ do zag³odzenia pewnych procesów
+TAK
+NIE

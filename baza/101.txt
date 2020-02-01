@@ -1,0 +1,4 @@
+X10
+Strategia planowania RR (Round-Robin) nadaje siê do planowania zadañ interakcyjnych
+TAK
+NIE

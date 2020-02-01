@@ -1,0 +1,4 @@
+X10
+Rozproszony system operacyjny dostarcza us³ug sieciowych, z których mog¹ korzystaæ u¿ytkownicy oraz aplikacje
+TAK
+NIE

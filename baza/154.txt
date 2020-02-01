@@ -1,0 +1,4 @@
+X10
+Ci¹g bajtów jest rodzajem struktury plików
+TAK
+NIE

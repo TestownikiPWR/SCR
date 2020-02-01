@@ -1,0 +1,4 @@
+X01
+Dostêp sekwencyjny do plików odnosi siê tylko do plików przechowywanych na taœmach magnetycznych
+TAK
+NIE

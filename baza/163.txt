@@ -1,0 +1,4 @@
+X10
+Katalog to lista plików w systemie z ich nazwami i informacj¹ o alokacji pliku na dysku
+TAK
+NIE

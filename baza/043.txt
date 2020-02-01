@@ -1,0 +1,4 @@
+X01
+Procesy s¹ tworzone w celu usprawnienia przydzia³u pamiêci (quasi) równolegle wykonywanym zadaniom
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+System alokacji stronicowej pozwala unikn¹æ ca³kowicie efektu fragmentacji wewnêtrznej. (+symetryczne)
+TAK
+NIE

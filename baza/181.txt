@@ -1,0 +1,4 @@
+X10
+Migracja danych polega na automatycznym przeslaniu danych ze zdalnego systemu, gdy s¹ one potrzebna na lokalnym
+TAK
+NIE

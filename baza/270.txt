@@ -1,0 +1,4 @@
+X10
+Potoki s¹ modelem komunikacji miêdzyprocesowej jednokierunkowej typu jeden-do-jednego
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Topologia pierœcienia z ¿etonem powoduje powstawanie kolizji w trakcie komunikacji
+TAK
+NIE

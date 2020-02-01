@@ -1,0 +1,4 @@
+X10
+Bit wa¿noœci w tablicy stron pamiêci s³u¿y do oznaczania stron istniej¹cych w pamiêci fizycznej
+TAK
+NIE

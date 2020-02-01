@@ -1,0 +1,4 @@
+X10
+Semantyka kopii oznacza, ¿e dane wykorzystane w operacjach I-O s¹ identyczne z oryginalnymi danymi
+TAK
+NIE

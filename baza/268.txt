@@ -1,0 +1,4 @@
+X01
+Zegar mo¿na zaprogramowaæ, aby po okreœlonym czasie przes³a³ sygna³ do procesu/w¹tku
+TAK
+NIE

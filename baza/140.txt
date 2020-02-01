@@ -1,0 +1,4 @@
+X10
+Uniksowa struktura inode wykorzystuje indeksowan¹ alokacjê bloków dyskowych
+TAK
+NIE

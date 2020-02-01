@@ -1,0 +1,4 @@
+X10
+Topologia magistrali powoduje powstawanie kolizji w trakcie komunikacji
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Programowane operacje I/O s¹ z regu³y korzystniejsze ni¿ operacje I/O sterowane przerwaniami
+TAK
+NIE

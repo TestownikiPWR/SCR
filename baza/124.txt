@@ -1,0 +1,4 @@
+X01
+Podstawowym urz¹dzeniem odmierzania czasu systemu operacyjnego jest zegar czasu rzeczywistego RTC
+TAK
+NIE

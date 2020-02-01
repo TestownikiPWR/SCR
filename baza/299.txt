@@ -1,0 +1,4 @@
+X10
+Schemat RAID 1 zapewnia redundancje i zwiêksza niezawodnoœæ pracy
+TAK
+NIE

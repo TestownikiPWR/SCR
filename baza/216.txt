@@ -1,0 +1,4 @@
+X10
+Stronicowanie jest procesem œci¹gania z dysku potrzebnych stron pamiêci wirtualnej
+TAK
+NIE

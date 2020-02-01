@@ -1,0 +1,4 @@
+X10
+Pliki indeksowane wymagaj¹ dwustopniowego dostêpu
+TAK
+NIE

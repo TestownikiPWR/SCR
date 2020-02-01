@@ -1,0 +1,4 @@
+X10
+Stan uœpienia procesu oznacza oczekiwanie na jakieœ zasoby
+TAK
+NIE

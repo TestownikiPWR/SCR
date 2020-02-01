@@ -1,0 +1,4 @@
+X10
+Jedna z funkcji procesów w systemie UNIX jest zapewnienie wzajemnej izolacji wykonywanych w systemie zadañ
+TAK
+NIE

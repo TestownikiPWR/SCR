@@ -1,0 +1,4 @@
+X10
+Fragmentacjê zewnêtrzn¹ mo¿na minimalizowaæ przez defragmentacjê
+TAK
+NIE

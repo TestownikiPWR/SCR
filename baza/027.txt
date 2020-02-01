@@ -1,0 +1,4 @@
+X10
+Zasoby w systemie UNIX istniej¹ w celu zwiêkszenia wydajnoœci wykonywania procesów
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Potoki s¹ modelem komunikacji miedzy procesorowej typu rozg³aszania (jeden do wielu)
+TAK
+NIE

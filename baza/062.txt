@@ -1,0 +1,4 @@
+X10
+Sekcj¹ krytyczn¹ nazywamy fragment programu wykonuj¹cy operacje na danych globalnych, mog¹cy prowadziæ do wyœcigów przy wykonywaniu
+TAK
+NIE

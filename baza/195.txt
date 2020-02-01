@@ -1,0 +1,4 @@
+X10
+Podwójne buforowanie pozwala odizolowaæ operacje wejœcia / wyjœcia od nadawcy i odbiorcy danych
+TAK
+NIE

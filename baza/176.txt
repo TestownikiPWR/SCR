@@ -1,0 +1,4 @@
+X01
+Algorytm FCFS (First-Come-First-Served) d¹¿y do zminimalizowania iloœci ruchów g³owicy
+TAK
+NIE

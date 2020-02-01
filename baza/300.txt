@@ -1,0 +1,4 @@
+X10
+Awaria dowolnego dysku w RAID 0 powoduje stratê danych
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Œrodowisko procesu w systemie UNIX to jest zbiór zmiennych z wartoœciami stworzonych dla procesu
+TAK
+NIE

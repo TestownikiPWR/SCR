@@ -1,0 +1,4 @@
+X01
+OpóŸnieniem (latency) timera nazywamy b³¹d wynikaj¹cy z kumulowania siê w pracy cyklicznie drobnych b³êdów
+TAK
+NIE

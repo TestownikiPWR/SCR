@@ -1,0 +1,4 @@
+X01
+Szyfrowanie symetryczne oznacza szyfrowanie komunikatów wysy³anych od A do B tym samym szyfrem, którym B szyfruje komunikaty wysy³ane do A
+TAK
+NIE

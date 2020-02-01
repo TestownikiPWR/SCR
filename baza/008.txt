@@ -1,0 +1,4 @@
+X10
+Tablica stron pamiêci zawiera odwzorowanie stron pamiêci logicznej do ramek pamiêci fizycznej
+Tak
+Nie

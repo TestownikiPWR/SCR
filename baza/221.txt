@@ -1,0 +1,4 @@
+X01
+W standardzie RAID 1 dok³adanie kolejnych dysków powoduje wzrost dostêpnego miejsca do zapisu danych
+TAK
+NIE

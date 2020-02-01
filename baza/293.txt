@@ -1,0 +1,4 @@
+X01
+W systemie pamiêci wirtualnej, proces pos³uguje siê pamiêci¹ fizyczna, adresowana liniowo w sposób ci¹g³y od zera
+TAK
+NIE

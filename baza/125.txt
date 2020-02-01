@@ -1,0 +1,4 @@
+X10
+Podstawowym urz¹dzeniem odmierzania czasu systemu operacyjnego jest systemowy timer sprzêtowy
+TAK
+NIE

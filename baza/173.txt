@@ -1,0 +1,4 @@
+X10
+W systemie UNIX pliki zorganizowane s¹, jako sekwencje bajtów, zatem s¹ to rekordy o sta³ej d³ugoœci jednego bajta
+TAK
+NIE

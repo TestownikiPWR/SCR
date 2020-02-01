@@ -1,0 +1,4 @@
+X10
+Problem b³êdu strony (page fault) jest rozwi¹zywany przez sprowadzenie strony do pamiêci fizycznej
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Zapobieganie zakleszczeniom eliminuje warunki konieczne zakleszczenia i gwarantuje, ¿e ono nie powstanie
+TAK
+NIE

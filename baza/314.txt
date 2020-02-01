@@ -1,0 +1,4 @@
+X10
+Czas potrzebny do zapisania przeciêtnego w danym momencie HDD "do pe³na" wraz z postêpem lat roœnie
+TAK
+NIE

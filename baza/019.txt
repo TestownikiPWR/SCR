@@ -1,0 +1,4 @@
+X01
+Procesy korzystaj¹ce z pamiêci wspó³dzielonej mog¹ mieæ te sama tablice stron
+TAK
+NIE

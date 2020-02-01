@@ -1,0 +1,4 @@
+X10
+Programowane operacje wejœcia / wyjœcia to jedno z trzech g³ównych podejœæ do implementacji operacji wejœcia / wyjœcia
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Barierê mo¿na wykorzystaæ do synchronicznego uruchamiania zestawu w¹tków lub procesów
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Wydajnoœæ transferu stron z i do pamieci rosnie z wraz z rozmiarem stron. (+symetryczne: maleje)
+TAK
+NIE

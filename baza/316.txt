@@ -1,0 +1,4 @@
+X10
+Optymalizacja wykorzystania procesora w planowaniu procesów jest równoznaczna z minimalizacja œredniego czasu oczekiwania procesów na wykonanie
+TAK
+NIE

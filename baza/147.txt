@@ -1,0 +1,4 @@
+X10
+Pliki o strukturze indeksowanej s¹ zapisane w katalogu dyskowym, który stanowi indeks plików
+TAK
+NIE

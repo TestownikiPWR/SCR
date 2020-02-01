@@ -1,0 +1,4 @@
+X10
+Proces utworzony przez klonowanie wspó³dzieli z rodzicem wszystkie otwarte wczeœniej pliki
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Procesor DMA wykonuje transfery danych pomiêdzy pamiêci¹, a g³ównym procesorem systemu
+TAK
+NIE

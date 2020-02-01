@@ -1,0 +1,4 @@
+X10
+Proces w systemie unix mo¿e zadeklarowaæ w³asna procedurê obs³ugi sygna³u( dla wiêkszoœci typów sygna³ów)
+TAK
+NIE

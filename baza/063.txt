@@ -1,0 +1,4 @@
+X10
+Do synchronizacji dwóch w¹tków wykonuj¹cych siê przez pamiêæ globaln¹, muteks jest wystarczaj¹cym elementem
+TAK
+NIE

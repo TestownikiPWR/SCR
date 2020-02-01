@@ -1,0 +1,4 @@
+X01
+Potoki mog¹ byæ wykorzystywane do komunikacji tylko przez procesy, które same synchronizuj¹ prêdkoœæ przesy³ania
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Implementacja I/O wykorzystuj¹ca przerwania daje nastêpuj¹ce korzyœci: w tym czasie Procesor mo¿e wykonywaæ inne procesy, nawet ten sam proces, jeœli nie wymaga on oczekiwania na koniec operacji
+TAK
+NIE

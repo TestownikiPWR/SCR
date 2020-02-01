@@ -1,0 +1,4 @@
+X01
+Zmienna warunkowa s³u¿y do warunkowego wykonania sekcji programu przez w¹tki i procesy
+TAK
+NIE

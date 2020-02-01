@@ -1,0 +1,4 @@
+X01
+Œrodowisko procesu w systemie unix to jest zbiór innych procesów, z którymi dany proces siê komunikuje
+TAK
+NIE

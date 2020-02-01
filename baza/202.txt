@@ -1,0 +1,4 @@
+X01
+Przyk³adami urz¹dzeñ blokowych s¹ terminal i drukarka, gdy¿ ich transfer odbywa siê poprzez jednostki o sta³ej d³ugoœci
+TAK
+NIE

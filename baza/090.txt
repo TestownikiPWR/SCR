@@ -1,0 +1,4 @@
+X10
+Algorytm wykrywania zakleszczeñ znajduje procesy, które mog¹ siê zakoñczyæ z wykorzystaniem dostêpnych zasobów
+TAK
+NIE

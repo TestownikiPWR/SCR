@@ -1,0 +1,4 @@
+X10
+W¹tki u¿ytkownika s¹ z regu³y szybsze ni¿ w¹tki j¹dra
+TAK
+NIE

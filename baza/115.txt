@@ -1,0 +1,4 @@
+X10
+Ekspedytor odpowiada za wykonywanie wyroków planisty
+TAK
+NIE

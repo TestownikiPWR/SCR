@@ -1,0 +1,4 @@
+X10
+Ochrona sekcji krytycznej programu muteksem polega na uruchomieniu (muteksu)?? Na czas wykonywania sekcji
+TAK
+NIE

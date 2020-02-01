@@ -1,0 +1,4 @@
+X10
+Operacje I/O realizowane przez DMA pozwalaj¹ odci¹¿yæ g³ówny procesor systemu przy transferach I/O
+TAK
+NIE

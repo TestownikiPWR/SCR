@@ -1,0 +1,4 @@
+X01
+W strategii RR (Round-Robin) im kwant czasu jest mniejszy w stosunku do czasu prze³¹czeñ kontekstu, tym lepiej dla globalnej wydajnoœci sytemu
+TAK
+NIE

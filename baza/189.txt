@@ -1,0 +1,4 @@
+X10
+Standard adresowania IPv6 pozwala rozwi¹zaæ problem braku adresów w Internecie
+TAK
+NIE

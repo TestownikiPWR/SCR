@@ -1,0 +1,4 @@
+X01
+Strategia planowania RR (Round-Robin) dobrze nadaje siê do planowania zadañ t³a (obliczeniowych)
+TAK
+NIE

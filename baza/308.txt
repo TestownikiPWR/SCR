@@ -1,0 +1,4 @@
+X01
+Algorytm SCAN obs³uguje zadania dostêpu podczas ruchu g³owicy w obie strony
+TAK
+NIE

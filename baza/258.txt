@@ -1,0 +1,4 @@
+X01
+Wprowadzenie ochrony sekcji krytycznej programu muteksem z regu³y skraca czas jego wykonania
+TAK
+NIE

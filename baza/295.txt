@@ -1,0 +1,4 @@
+X01
+Przy realizacji pamiêci wirtualnej jest konieczne wsparcie sprzêtowe
+TAK
+NIE

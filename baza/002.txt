@@ -1,0 +1,4 @@
+X10
+W przypadku wi¹zania na etapie kompilacji adres fizyczny jest identyczny z logicznym
+Tak
+Nie

@@ -1,0 +1,4 @@
+X01
+Zadaniem infrastruktury klucza publicznego jest przekazywanie odbiorcom zaszyfrowanych dokumentów 
+TAK
+NIE

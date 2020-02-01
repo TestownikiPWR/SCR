@@ -1,0 +1,4 @@
+X10
+Strategia planowania RR (Round-Robin) dokonuje wyw³aszczeñ, co kwant czasu
+TAK
+NIE

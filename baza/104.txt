@@ -1,0 +1,4 @@
+X10
+Kwant czasu planowania rotacyjnego RR (Round-Robin) powinien byæ wiêkszy ni¿ czas prze³¹czania kontekstu
+TAK
+NIE

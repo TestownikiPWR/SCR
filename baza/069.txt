@@ -1,0 +1,4 @@
+X01
+Bariera umo¿liwia wstrzymanie wykonywania w¹tku w celu zapewnienia mu wy³¹cznego dostêpu do jakiegoœ zasobu
+TAK
+NIE

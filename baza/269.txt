@@ -1,0 +1,4 @@
+X10
+Proces zombie jest procesem, który nie mo¿e byæ usuniêty przez system ze wzglêdu na niepoprawne zachowanie rodzica
+TAK
+NIE

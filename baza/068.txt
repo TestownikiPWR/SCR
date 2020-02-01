@@ -1,0 +1,4 @@
+X10
+Zmienna warunkowa pozwala zast¹piæ muteks dla zapewnienia wy³¹cznoœci dostêpu do sekcji krytycznej
+TAK
+NIE

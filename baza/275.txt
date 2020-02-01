@@ -1,0 +1,4 @@
+X01
+Schemat piramidy pamiêci jest stosowany w celu zminimalizowania zapotrzebowania systemu na pamiêæ
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Jedna z funkcji procesów w systemie UNIX jest umo¿liwienie przydzia³u zasobów wykonywanym w systemie zadaniom
+TAK
+NIE

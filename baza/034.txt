@@ -1,0 +1,4 @@
+X01
+Proces utworzony przez klonowanie wspó³dzieli z rodzicem za³o¿one wczeœniej blokady plików
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Tablica stron przechowywana jest w rejestrach sprzêtowych
+TAK
+NIE

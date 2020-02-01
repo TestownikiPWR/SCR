@@ -1,0 +1,4 @@
+X01
+Strategia FCFS (First-Come-First-Served) jest czêsto stosowana ze wzglêdu na najkrótszy czas oczekiwania
+TAK
+NIE

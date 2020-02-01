@@ -1,0 +1,4 @@
+X10
+Szeregowanie operacji dyskowych ma g³ownie na celu optymalizacje czasu przesuniêcia g³owicy dysku
+TAK
+NIE

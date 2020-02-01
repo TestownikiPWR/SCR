@@ -1,0 +1,4 @@
+X10
+Znajomoœæ adresu bazowego i granicznego ka¿dego programu pozwala zapewniæ ochronê pamiêci
+TAK
+NIE

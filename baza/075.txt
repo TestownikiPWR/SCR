@@ -1,0 +1,4 @@
+X01
+Muteks mo¿e byæ u¿yty do sygnalizacji gotowoœci danych przy komunikacji przez zmienne/ pamiêæ globalna
+TAK
+NIE

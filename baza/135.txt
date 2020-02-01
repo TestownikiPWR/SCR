@@ -1,0 +1,4 @@
+X01
+OpóŸnieniem (latency) timera nazywamy spóŸnione wykonywanie akcji przeterminowanego timera
+TAK
+NIE

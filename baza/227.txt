@@ -1,0 +1,4 @@
+X10
+Podwójne buforowanie pozwala zwiêkszyæ prêdkoœæ wejœcia / wyjœcia
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Ethernet pozwala ³atwo wykorzystaæ cale dostêpne pasmo komunikacyjne
+TAK
+NIE

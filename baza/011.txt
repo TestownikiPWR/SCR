@@ -1,0 +1,4 @@
+X10
+Proces zmiany adresów logicznych na fizyczne nazywa siê translacja adresów
+TAK
+NIE

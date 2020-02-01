@@ -1,0 +1,4 @@
+X01
+Proces w czasie pracy pos³uguje siê adresami fizycznymi
+TAK
+NIE

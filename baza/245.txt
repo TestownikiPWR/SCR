@@ -1,0 +1,4 @@
+X01
+Klucze prywatne nale¿y dostarczyæ swoim partnerom w bezpieczny i poufny sposób
+TAK
+NIE

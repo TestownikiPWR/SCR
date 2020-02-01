@@ -1,0 +1,4 @@
+X01
+Systemy rozproszone s¹ automatycznie bardziej niezawodne dziêki wiêkszej iloœci sprzêtu i oprogramowania
+TAK
+NIE

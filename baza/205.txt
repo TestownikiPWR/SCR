@@ -1,0 +1,4 @@
+X10
+Czy algorytm bankiera s³u¿y do unikania zakleszczeñ
+TAK
+NIE

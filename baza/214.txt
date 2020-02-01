@@ -1,0 +1,4 @@
+X01
+Wi¹zanie danych na etapie wykonywania upraszcza translacje adresu wirtualnego na fizyczny
+TAK
+NIE

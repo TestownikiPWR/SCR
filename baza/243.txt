@@ -1,0 +1,4 @@
+X10
+W ataku poœrednika atakuj¹cy wykorzystuje do szyfrowania swoje klucze prywatne
+TAK
+NIE

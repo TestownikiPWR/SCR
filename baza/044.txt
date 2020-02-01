@@ -1,0 +1,4 @@
+X01
+Potoki mog¹ byæ wykorzystane do przesy³ania komunikatów jednemu procesowi przez wiele procesów
+TAK
+NIE

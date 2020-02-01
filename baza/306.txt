@@ -1,0 +1,4 @@
+X01
+Strategia planowania SJF (Shortest-Jobtime-First) dokonuje wyw³aszczania, gdy pojawi siê zadanie o krótszym czasie wykonywania
+TAK
+NIE

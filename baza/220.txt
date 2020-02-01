@@ -1,0 +1,4 @@
+X10
+W standardzie RAID 4 bity parzystoœci s¹ umieszczone na jednym dysku twardym (za zakresem)
+TAK
+NIE

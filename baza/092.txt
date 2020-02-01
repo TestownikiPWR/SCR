@@ -1,0 +1,4 @@
+X01
+Narzut czasowy na prze³¹czanie kontekstu zale¿y od stosowanej przez system operacyjny strategii szeregowania
+TAK
+NIE

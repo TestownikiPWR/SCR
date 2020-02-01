@@ -1,0 +1,4 @@
+X01
+Bit wa¿noœci w tablicy stron pamiêci s³u¿y do oznaczania stron wspó³dzielonych miedzy procesami
+TAK
+NIE

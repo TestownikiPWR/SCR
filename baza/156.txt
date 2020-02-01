@@ -1,0 +1,4 @@
+X10
+Struktura indeksowana jest rodzajem struktury plików
+TAK
+NIE

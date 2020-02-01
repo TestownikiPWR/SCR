@@ -1,0 +1,4 @@
+X01
+Algorytm strusia pozwala na wykrywanie i eliminacjê zakleszczeñ
+TAK
+NIE

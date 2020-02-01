@@ -1,0 +1,4 @@
+X10
+Ci¹g rekordów jest rodzajem struktury plików
+TAK
+NIE

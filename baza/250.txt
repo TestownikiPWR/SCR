@@ -1,0 +1,4 @@
+X01
+Tunel ssh s³u¿y do transmitowania danych sesji ssh dodatkowo szyfrowanym kana³em
+TAK
+NIE
