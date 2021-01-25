@@ -1,0 +1,4 @@
+X10
+Procesor niewirtualizowalny posiada instrukcje wrażliwe ale nieuprzywilejowane. O O   [100.0%]
+PRAWDA
+FAŁSZ

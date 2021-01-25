@@ -1,0 +1,4 @@
+X10
+Partycjonowanie czasu pracy procesora może doprowadzić do manowania cykli obliczeniowych podczas gdy są procesy oczekujące na obliczenia.   [100.0%]
+PRAWDA
+FAŁSZ

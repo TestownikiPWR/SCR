@@ -1,0 +1,4 @@
+X00
+W ataku pośrednika atakujący wykorzystuje do szyfrowania klucze publiczne rzeczywistych komunikujących się stron.   [33.33%]
+PRAWDA
+FAŁSZ

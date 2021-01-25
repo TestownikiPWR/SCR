@@ -1,0 +1,4 @@
+X01
+Programy użytkowników wykonują się na procesorze w całości w trybie użytkownika. O O   [100.0%]
+PRAWDA
+FAŁSZ

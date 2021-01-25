@@ -1,0 +1,4 @@
+X01
+Mutex pozwala implementować większą równoległość obliczeń niż blokady zapisu i odczytu.    [100.0%]
+PRAWDA
+FAŁSZ

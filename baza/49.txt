@@ -1,0 +1,4 @@
+X10
+Dziedzina zabezpieczeń jest zbiorem praw dostępu dla pewnego obiektu.   [100.0%]
+PRAWDA
+FAŁSZ

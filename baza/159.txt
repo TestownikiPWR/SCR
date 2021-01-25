@@ -1,0 +1,4 @@
+X10
+Tik określa w systemie operacyjnym okres, z jakim system wykonuje swoje cykliczne procedury administracyjne.   [100.0%]
+PRAWDA
+FAŁSZ

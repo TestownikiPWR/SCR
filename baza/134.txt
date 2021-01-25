@@ -1,0 +1,4 @@
+X01
+Kwant czasu planowania rotacyjnego RR (Round-Robin) powinien być mniejszy niż czas przełączania kontekstu.   [100.0%]
+PRAWDA
+FAŁSZ

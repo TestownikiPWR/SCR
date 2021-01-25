@@ -1,0 +1,4 @@
+X10
+Obsługa błędu strony (page fault) wymaga sprowadzenia brakującej strony z obszaru wymiany na dysku do pamięci fizycznej.   [92.31%]
+PRAWDA
+FAŁSZ

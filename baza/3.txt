@@ -1,0 +1,4 @@
+X10
+Dowiązania (linki) w systemie plików pozwalają na tworzenie acyklicznej, niedrzewiastej struktury katalogów.    [100.0%]
+PRAWDA
+FAŁSZ

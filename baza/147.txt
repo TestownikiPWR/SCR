@@ -1,0 +1,4 @@
+X10
+Wywłłaszczanie jest czynnością mogącą spowodować zagłodzenie pewnych procesów w systemie.   [100.0%]
+PRAWDA
+FAŁSZ

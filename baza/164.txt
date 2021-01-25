@@ -1,0 +1,4 @@
+X01
+Bit ważności w tablicy stron pamięci służy do oznaczania stron współdzielonych między procesami.   [94.44%]
+PRAWDA
+FAŁSZ

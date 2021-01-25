@@ -1,0 +1,4 @@
+X10
+Program ssh pozwala nawiązać szyfrowane połączenie ze zdalnym systemem, umożliwiające pracę terminalową na zdalnym systemie.   [85.0%]
+PRAWDA
+FAŁSZ

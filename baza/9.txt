@@ -1,0 +1,4 @@
+X10
+Pliki o strukturze indeksowanej składają się z indeksu i części danych.   [85.71%]
+PRAWDA
+FAŁSZ

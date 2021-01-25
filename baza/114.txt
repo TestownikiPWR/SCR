@@ -1,0 +1,4 @@
+X10
+Zajęcie muteksu jest równoważne zajęciu blokady zapisu i odczytu do odczytu.   [88.0%]
+PRAWDA
+FAŁSZ

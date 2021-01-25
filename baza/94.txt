@@ -1,0 +1,4 @@
+X01
+Obsługa wątków użytkownika (tworzenie, przełączanie) typowo trwa dłużej niż obsługa wątków jądra.   [80.0%]
+PRAWDA
+FAŁSZ

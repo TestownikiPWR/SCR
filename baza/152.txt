@@ -1,0 +1,4 @@
+X10
+Funkcje sleep/nanosleep mogą zakończyć się po czasie krótszym niż zadany jej czas.   [100.0%]
+PRAWDA
+FAŁSZ

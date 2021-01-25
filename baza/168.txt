@@ -1,0 +1,4 @@
+X10
+Ofiarą (victim) nazywa się stronę pamięci usuwaną z pamięci fizycznej w procesie obsługi błędu strony.   [100.0%]
+PRAWDA
+FAŁSZ

@@ -1,0 +1,4 @@
+X10
+Katalogi dwupoziomowe umożliwiają korzystanie z odseparowanych przestrzeni nazw plików.   [100.0%]
+PRAWDA
+FAŁSZ

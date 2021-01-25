@@ -1,0 +1,4 @@
+X01
+Stronicowanie jest procesem zapisywania na dysku nieużywanych stron pamięci wirtualnej.   [100.0%]
+PRAWDA
+FAŁSZ

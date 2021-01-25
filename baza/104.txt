@@ -1,0 +1,4 @@
+X10
+Do synchronizacji wielu wątków komunikujących się przez pamięć globalną, mutex jest wystarczającym elementem.   [100.0%]
+PRAWDA
+FAŁSZ

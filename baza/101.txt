@@ -1,0 +1,4 @@
+X01
+Wątki użytkownika w ramach jednego procesu mogą jednocześnie wykonywać się na różnych procesorach/rdzeniach komputera.    [100.0%]
+PRAWDA
+FAŁSZ

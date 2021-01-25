@@ -1,0 +1,4 @@
+X10
+Optymalizacja wykorzystania procesora w planowaniu procesów normalnie powoduje zwiększenie średniego czasu oczekiwania procesów na wykonanie.   [100.0%]
+PRAWDA
+FAŁSZ

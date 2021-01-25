@@ -1,0 +1,4 @@
+X00
+Zwykły proces w systemie Unix otrzymuje priorytet, którego nie może sam zmienić.   [0.00%]
+PRAWDA
+FAŁSZ

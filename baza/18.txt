@@ -1,0 +1,4 @@
+X10
+Jednym z zadań hypervisora jest obsługa komunikacji pomiędzy systemami gospodarza i gości.    [100.0%]
+PRAWDA
+FAŁSZ

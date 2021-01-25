@@ -1,0 +1,4 @@
+X01
+System pracujący na maszynie wirtualnej jako gość jest bardziej odporny na awarie niż jako pracujący na maszynie fizycznej.   [84.21%]
+PRAWDA
+FAŁSZ

@@ -1,0 +1,4 @@
+X10
+Unikanie zakleszczeń polega na analizowaniu warunków przydziału zasobu, aby nie dopuścić do powstania zakleszczenia.   [100.0%]
+PRAWDA
+FAŁSZ

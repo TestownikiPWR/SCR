@@ -1,0 +1,4 @@
+X01
+Parawirtualizacja pozwala na efektywną implementację tłumaczenia binarnego.   [95.0%]
+PRAWDA
+FAŁSZ

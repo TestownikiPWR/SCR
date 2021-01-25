@@ -1,0 +1,4 @@
+X10
+Strategia planowania SRTF (Shortest-Remaining-Time-First) jest algorytmem wywłaszczającym.    [100.0%]
+PRAWDA
+FAŁSZ

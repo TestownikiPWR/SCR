@@ -1,0 +1,4 @@
+X10
+Połączenie ssh do systemu zdalnego możliwe jest z autentykacja za pomocą klucza publicznego.   [50.0%]
+PRAWDA
+FAŁSZ

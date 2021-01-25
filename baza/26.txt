@@ -1,0 +1,4 @@
+X00
+Próba wykonania instrukcji wrażliwej powoduje pułapkę do hypervisora VMM.   [53.85%]
+PRAWDA
+FAŁSZ

@@ -1,0 +1,4 @@
+X01
+Warunkiem powstania zakleszczenia jest obsługa wywłaszczania zasobów przez system.   [100.0%]
+PRAWDA
+FAŁSZ

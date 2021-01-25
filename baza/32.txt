@@ -1,0 +1,4 @@
+X00
+Aby zapewnić skuteczność szyfrowania należy zastosować albo tajny klucz albo tajny algorytm szyfrowania.   [55.56%]
+PRAWDA
+FAŁSZ

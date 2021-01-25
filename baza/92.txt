@@ -1,0 +1,4 @@
+X10
+Model wątków daje większą współbieżność działania programów w porównaniu z modelem procesów.   [100.0%]
+PRAWDA
+FAŁSZ

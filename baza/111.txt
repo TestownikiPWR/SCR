@@ -1,0 +1,4 @@
+X01
+Wprowadzenie ochrony sekcji krytycznej muteksem umożliwia współbieżność jej wykonania.   [100.0%]
+PRAWDA
+FAŁSZ

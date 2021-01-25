@@ -1,0 +1,4 @@
+X00
+Zasoby w systemie Unix istnieją w celu zwiększenia wydajności wykonywania procesów.   [0.00%]
+PRAWDA
+FAŁSZ

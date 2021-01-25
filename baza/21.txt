@@ -1,0 +1,4 @@
+X10
+Migawka (snapshot) jest zapisem stanu systemu gościa.    [100.0%]
+PRAWDA
+FAŁSZ

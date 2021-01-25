@@ -1,0 +1,4 @@
+X10
+Komunikacja przez pamięć wspólną wymaga skopiowania segmentu pamięci wspólnej do przestrzeni adresowej procesów.    [100.0%]
+PRAWDA
+FAŁSZ

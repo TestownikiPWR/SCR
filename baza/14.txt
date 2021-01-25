@@ -1,0 +1,4 @@
+X01
+Windowsowa tablica alokacji FAT wykorzystuje indeksowaną alokację bloków dyskowych.   [95.0%]
+PRAWDA
+FAŁSZ

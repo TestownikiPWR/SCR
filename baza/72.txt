@@ -1,0 +1,4 @@
+X01
+Komunikacja przez pamięć wspólną jest możliwa za pomocą specjalnych operacji wejścia/wyjścia.   [100.0%]
+PRAWDA
+FAŁSZ

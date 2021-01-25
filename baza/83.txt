@@ -1,0 +1,4 @@
+X01
+Próba odczytu z pustego potoku zawsze zwraca pusty bufor danych.   [100.0%]
+PRAWDA
+FAŁSZ

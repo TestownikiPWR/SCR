@@ -1,0 +1,4 @@
+X01
+Księgujący system plików po wykonaniu każdej operacji na systemie plików zapisuje ją w dzienniku.   [93.33%]
+PRAWDA
+FAŁSZ

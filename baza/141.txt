@@ -1,0 +1,4 @@
+X10
+Strategia planowania RR (Round-Robin) dokonuje wywłaszczeń co kwant czasu.    [100.0%]
+PRAWDA
+FAŁSZ

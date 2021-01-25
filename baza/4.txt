@@ -1,0 +1,4 @@
+X10
+Dowiązania twarde (hard links) w systemach plików pozwalają na tworzenie cykli skierowanych w strukturze katalogów.   [100.0%]
+PRAWDA
+FAŁSZ

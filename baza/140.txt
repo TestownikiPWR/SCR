@@ -1,0 +1,4 @@
+X01
+Sprawiedliwość w planowaniu procesów oznacza przydzielanie wszystkim zadaniom procesora zgodnie z realizowanym algorytmem planowania.   [100.0%]
+PRAWDA
+FAŁSZ

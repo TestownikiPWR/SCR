@@ -1,0 +1,4 @@
+X00
+Proces uniksowy jest zawsze w stanie wykonywalnym albo uśpionym.   [0.00%]
+PRAWDA
+FAŁSZ

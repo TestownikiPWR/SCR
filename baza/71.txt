@@ -1,0 +1,4 @@
+X10
+Dane są zawsze odczytywane z potoku w tej samej kolejności w jakiej zostały zapisane.   [100.0%]
+PRAWDA
+FAŁSZ

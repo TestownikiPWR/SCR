@@ -1,0 +1,4 @@
+X01
+System gościa w ramach maszyny wirtualnej wykonuje się na procesorze wirtualnym VCPU.   [100.0%]
+PRAWDA
+FAŁSZ

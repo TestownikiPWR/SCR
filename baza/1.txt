@@ -1,0 +1,4 @@
+X01
+Dla plików o strukturze indeksowanej prostym i naturalnym sposobem dostępu jest dostęp sekwencyjny.    [81.48%]
+PRAWDA
+FAŁSZ

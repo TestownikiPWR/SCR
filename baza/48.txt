@@ -1,0 +1,4 @@
+X01
+Atak z wykorzystaniem przepełnienia bufora polega na przekazaniu użytkownikowi wykonywalnego programu w celu jego uruchomienia przez tego użytkownika.   [100.0%]
+PRAWDA
+FAŁSZ

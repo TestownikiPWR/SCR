@@ -1,0 +1,4 @@
+X01
+Fragmentację zewnętrzną można minimalizować stosując małe jednostki alokacji. O O   [75.0%]
+PRAWDA
+FAŁSZ

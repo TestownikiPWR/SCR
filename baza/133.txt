@@ -1,0 +1,4 @@
+X01
+Zakleszczenie powstaje w zbiorze procesów, gdy każdy z nich oczekuje na jakiś zasób, na który oczekuje również inny proces ze zbioru.   [87.5%]
+PRAWDA
+FAŁSZ

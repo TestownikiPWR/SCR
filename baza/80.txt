@@ -1,0 +1,4 @@
+X01
+Potoki są modelem komunikacji międzyprocesowej typu rozgłaszania (jeden-do-wielu).    [100.0%]
+PRAWDA
+FAŁSZ

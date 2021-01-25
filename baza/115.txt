@@ -1,0 +1,4 @@
+X10
+Zmienna warunkowa służy do warunkowego wykonania sekcji krytycznej przez wątki lub procesy.   [80.0%]
+PRAWDA
+FAŁSZ

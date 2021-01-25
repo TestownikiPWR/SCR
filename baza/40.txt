@@ -1,0 +1,4 @@
+X01
+Skróty kryptograficzne bardzo podobnych dokumentów powinny być do siebie zbliżone.    [100.0%]
+PRAWDA
+FAŁSZ

@@ -1,0 +1,4 @@
+X10
+Obsługa sygnałów w programach wielowątkowych wymaga innego podejścia niż w programach bez wątków.   [100.0%]
+PRAWDA
+FAŁSZ

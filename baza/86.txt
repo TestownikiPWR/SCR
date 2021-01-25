@@ -1,0 +1,4 @@
+X10
+Aplikacja współbieżna zbudowana z wątków będzie działać ogólnie szybciej niż gdyby była zbudowana z procesów.   [100.0%]
+PRAWDA
+FAŁSZ

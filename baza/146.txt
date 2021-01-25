@@ -1,0 +1,4 @@
+X10
+Wielopoziomowe kolejki planowania pozwalają stosować inne priorytety dla zadań interakcyjnych i obliczeniowych.   [90.91%]
+PRAWDA
+FAŁSZ

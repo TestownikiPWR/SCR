@@ -1,0 +1,4 @@
+X00
+Zegar można zaprogramować, aby po określonym czasie przysłał sygnał do procesu/wątku.   [65.22%]
+PRAWDA
+FAŁSZ

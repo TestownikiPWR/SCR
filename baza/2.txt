@@ -1,0 +1,4 @@
+X01
+Dostęp sekwencyjny do plików odnosi się tylko do plików przechowywanych na taśmach magnetycznych.   [100.0%]
+PRAWDA
+FAŁSZ

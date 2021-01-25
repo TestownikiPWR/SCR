@@ -1,0 +1,4 @@
+X01
+Zbiorem roboczym procesu nazywamy jego całkowitą alokację pamięci wirtualnej.   [63.64%]
+PRAWDA
+FAŁSZ

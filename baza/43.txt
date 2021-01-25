@@ -1,0 +1,4 @@
+X01
+Szyfrowanie asymetryczne jest podobnie efektywne obliczeniowo jak symetryczne.   [100.0%]
+PRAWDA
+FAŁSZ

@@ -1,0 +1,4 @@
+X01
+Sygnalizacja błędów przez funkcje systemowe POSIX wymaga specjalnej obsługi w programach wielowątkowych.   [100.0%]
+PRAWDA
+FAŁSZ

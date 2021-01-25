@@ -1,0 +1,4 @@
+X10
+Wiązanie danych na etapie kompilacji upraszcza translację adresu wirtualnego na fizyczny.   [100.0%]
+PRAWDA
+FAŁSZ

@@ -1,0 +1,4 @@
+X10
+Operacje I/O na potoku wykonuje się funkcjami open/read/HfffEljak dla plików.   [100.0%]
+PRAWDA
+FAŁSZ

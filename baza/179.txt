@@ -1,0 +1,4 @@
+X10
+Zwykła tablica stron pamięci zawiera adresy fizyczne przydzielonych stron pamięci procesu.   [100.0%]
+PRAWDA
+FAŁSZ

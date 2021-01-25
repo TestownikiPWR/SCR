@@ -1,0 +1,4 @@
+X10
+Przesyłanie plików przez scp wymaga posiadania konta użytkownika na zdalnym systemie.   [94.44%]
+PRAWDA
+FAŁSZ

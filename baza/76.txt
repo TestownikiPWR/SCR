@@ -1,0 +1,4 @@
+X00
+O a.PRAWDA   [0.00%]
+PRAWDA
+FAŁSZ

@@ -1,0 +1,4 @@
+X01
+Wsparcie sprzętowe wirtualizacji przyspiesza proces tłumaczenia binarnego.   [100.0%]
+PRAWDA
+FAŁSZ

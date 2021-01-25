@@ -1,0 +1,4 @@
+X01
+Planista odpowiada za wykonywanie wyroków ekspedytora.   [100.0%]
+PRAWDA
+FAŁSZ

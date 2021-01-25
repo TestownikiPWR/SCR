@@ -1,0 +1,4 @@
+X01
+Zastosowanie ciągłej alokacji bloków do implementacji plików pozwala tylko na sekwencyjny dostęp do plików.   [95.0%]
+PRAWDA
+FAŁSZ

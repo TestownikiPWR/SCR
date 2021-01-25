@@ -1,0 +1,4 @@
+X00
+Proces może zakończyć pracę swojego rodzica wysyłając mu sygnał.   [0.00%]
+PRAWDA
+FAŁSZ

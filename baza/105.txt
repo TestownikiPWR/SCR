@@ -1,0 +1,4 @@
+X10
+Mutex jest szczególnym przypadkiem semafora.   [75.0%]
+PRAWDA
+FAŁSZ

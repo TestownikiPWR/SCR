@@ -1,0 +1,4 @@
+X10
+Kod jądra systemu operacyjnego wykonuje się na procesorze w trybie jądra.   [100.0%]
+PRAWDA
+FAŁSZ

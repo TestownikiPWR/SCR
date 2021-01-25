@@ -1,0 +1,4 @@
+X10
+Oczekiwanie na zmiennej warunkowej wymaga wcześniejszego zablokowania stowarzyszonego muteksu.   [87.5%]
+PRAWDA
+FAŁSZ

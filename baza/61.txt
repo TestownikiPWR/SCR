@@ -1,0 +1,4 @@
+X00
+Standardową reakcją na otrzymanie sygnału jest śmierć procesu (dla większości typów sygnałów).   [0.00%]
+PRAWDA
+FAŁSZ

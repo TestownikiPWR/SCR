@@ -1,0 +1,4 @@
+X01
+Parawirtualizacja wymaga modyfikacji systemu operacyjnego gospodarza.   [96.77%]
+PRAWDA
+FAŁSZ

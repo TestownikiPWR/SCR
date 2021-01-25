@@ -1,0 +1,4 @@
+X00
+Opóźnieniem (latency) timera nazywamy spóźnione wykonanie akcji przeterminowanego timera.   [46.15%]
+PRAWDA
+FAŁSZ

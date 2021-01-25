@@ -1,0 +1,4 @@
+X01
+Celem numerowania zasobów jest zapewnienie, by ważniejsze zasoby były przydzielane najpierw.   [100.0%]
+PRAWDA
+FAŁSZ

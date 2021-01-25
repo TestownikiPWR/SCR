@@ -1,0 +1,4 @@
+X10
+Proces zamiany adresów logicznych na fizyczne nazywa się translacją adresów. O   [100.0%]
+PRAWDA
+FAŁSZ

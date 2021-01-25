@@ -1,0 +1,4 @@
+X10
+Próba odczytu z potoku zawsze zwraca natychmiast niepusty bufor danych, lub bufor pusty gdy danych brak.   [100.0%]
+PRAWDA
+FAŁSZ

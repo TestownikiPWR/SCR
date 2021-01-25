@@ -1,0 +1,4 @@
+X10
+Operacja inkrementacji semafora jest możliwa bez czekania.   [100.0%]
+PRAWDA
+FAŁSZ

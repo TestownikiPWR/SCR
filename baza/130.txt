@@ -1,0 +1,4 @@
+X10
+W systemie stosującym wywłaszczanie zasobów nie może dojść do zakleszczenia.   [100.0%]
+PRAWDA
+FAŁSZ

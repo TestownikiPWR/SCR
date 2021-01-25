@@ -1,0 +1,4 @@
+X10
+Przełączanie kontekstu jest operacją wykonywaną przez dyspozytora (dispatcher) przy realizacji planowania procesów.   [100.0%]
+PRAWDA
+FAŁSZ

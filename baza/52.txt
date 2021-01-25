@@ -1,0 +1,4 @@
+X10
+Mechanizm set-uid pozwala na tymczasowe uzyskanie przez program zwykłego użytkownika przywilejów innego użytkownika.   [67.86%]
+PRAWDA
+FAŁSZ

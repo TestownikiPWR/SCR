@@ -1,0 +1,4 @@
+X10
+Operację idempotentną można wykonywać wiele razy bez generowania błędów.   [100.0%]
+PRAWDA
+FAŁSZ

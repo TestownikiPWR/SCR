@@ -1,0 +1,4 @@
+X01
+Listy praw dostępu ACL określają uprawnienia zdefiniowane dla pewnego użytkownika.   [100.0%]
+PRAWDA
+FAŁSZ

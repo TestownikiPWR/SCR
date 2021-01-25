@@ -1,0 +1,4 @@
+X10
+Algorytm wykrywania zakleszczeń należy wykonywać przy każdym nowym żądaniu alokacji zasobu.   [80.0%]
+PRAWDA
+FAŁSZ

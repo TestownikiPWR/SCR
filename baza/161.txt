@@ -1,0 +1,4 @@
+X01
+Timery typowo mogą odmierzać czas zarówno do przodu jak i do tyłu.   [97.56%]
+PRAWDA
+FAŁSZ

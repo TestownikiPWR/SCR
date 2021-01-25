@@ -1,0 +1,4 @@
+X10
+Usuwanie zakleszczeń można realizować przez zabijanie procesów.   [97.73%]
+PRAWDA
+FAŁSZ

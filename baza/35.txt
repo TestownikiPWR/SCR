@@ -1,0 +1,4 @@
+X10
+Podpis cyfrowy jest skrótem dokumentu zaszyfrowanym kluczem prywatnym nadawcy.    [100.0%]
+PRAWDA
+FAŁSZ

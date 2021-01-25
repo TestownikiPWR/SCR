@@ -1,0 +1,4 @@
+X01
+Zadaniem Centrum Certyfikacji CA jest przekazywanie odbiorcom zaszyfrowanych dokumentów.     [96.88%]
+PRAWDA
+FAŁSZ

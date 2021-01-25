@@ -1,0 +1,4 @@
+X10
+Blok kontrolny pliku (FCB) zawiera dane niezbędne do realizacji operacji na pliku.   [100.0%]
+PRAWDA
+FAŁSZ

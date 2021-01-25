@@ -1,0 +1,4 @@
+X01
+Wymiatanie jest procedurą zastępowania stron w procesie obsługi błędu strony pamięci wirtualnej.   [100.0%]
+PRAWDA
+FAŁSZ

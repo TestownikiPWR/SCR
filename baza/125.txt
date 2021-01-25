@@ -1,0 +1,4 @@
+X10
+Numerowanie zasobów pozwala na zapobieganie zakleszczeniom.   [100.0%]
+PRAWDA
+FAŁSZ

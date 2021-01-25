@@ -1,0 +1,4 @@
+X01
+Dublowane tablice stron potrzebne są dla zapewnienia zgodności tablic stron gościa z tablicą stron gospodarza.   [100.0%]
+PRAWDA
+FAŁSZ

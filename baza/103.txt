@@ -1,0 +1,4 @@
+X10
+Barierę można wykorzystać do jednoczesnego uruchomienia zestawu wątków lub procesów.   [100.0%]
+PRAWDA
+FAŁSZ

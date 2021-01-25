@@ -1,0 +1,4 @@
+X10
+Robak jest samodzielnym programem funkcjonującym w zainfekowanym systemie i/lub rozprzestrzeniającym się do innych systemów.   [100.0%]
+PRAWDA
+FAŁSZ

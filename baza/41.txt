@@ -1,0 +1,4 @@
+X01
+Skróty kryptograficzne stosuje się, w celu zmniejszenia wielkości przesyłanych dokumentów.   [100.0%]
+PRAWDA
+FAŁSZ

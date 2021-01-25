@@ -1,0 +1,4 @@
+X00
+Stan uśpienia procesu oznacza oczekiwanie na wykonanie na procesorze.   [0.00%]
+PRAWDA
+FAŁSZ

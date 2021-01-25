@@ -1,0 +1,4 @@
+X10
+Wirtualny tryb jądra wykonuje się na w fizycznym trybie użytkownika.   [100.0%]
+PRAWDA
+FAŁSZ

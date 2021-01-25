@@ -1,0 +1,4 @@
+X10
+Tworzenie nowych wątków jest szybsze niż tworzenie nowych procesów.   [100.0%]
+PRAWDA
+FAŁSZ

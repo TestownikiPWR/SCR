@@ -1,0 +1,4 @@
+X01
+Nawiązanie połączenia ssh wymaga posiadania klucza publicznego zdalnego systemu.   [88.89%]
+PRAWDA
+FAŁSZ

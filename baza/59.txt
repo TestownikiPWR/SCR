@@ -1,0 +1,4 @@
+X00
+Procesy tworzone są w systemach operacyjnych w celu zwiększenia efektywności obliczeń.   [0.00%]
+PRAWDA
+FAŁSZ

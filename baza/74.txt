@@ -1,0 +1,4 @@
+X10
+Komunikacja przez pamięć wspólną wymaga zewnętrznej synchronizacji przesyłania.   [100.0%]
+PRAWDA
+FAŁSZ

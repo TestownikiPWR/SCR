@@ -1,0 +1,4 @@
+X01
+Dla wątków jądra, przejście jednego wątku do stanu oczekiwania blokuje równoległość pozostałych wątków.   [100.0%]
+PRAWDA
+FAŁSZ

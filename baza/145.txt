@@ -1,0 +1,4 @@
+X10
+W zamkniętych systemach z planowaniem priorytetowym można stosować statyczny przydział priorytetów.   [100.0%]
+PRAWDA
+FAŁSZ

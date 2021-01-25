@@ -1,0 +1,4 @@
+X10
+Wątki użytkownika są z reguły szybsze niż wątki jądra.   [100.0%]
+PRAWDA
+FAŁSZ

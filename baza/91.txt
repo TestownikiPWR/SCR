@@ -1,0 +1,4 @@
+X00
+Każdy wątek, podobnie jak proces, posiada swój własny stos obliczeniowy.   [60.0%]
+PRAWDA
+FAŁSZ

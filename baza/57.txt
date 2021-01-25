@@ -1,0 +1,4 @@
+X10
+Zasada minimalnego przywileju oznacza, że aplikacjom działającym w przestrzeni użytkownika należy przyznawać minimalne przywileje (brak możliwości wykonywania operacji w trybie jądra).   [100.0%]
+PRAWDA
+FAŁSZ

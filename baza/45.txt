@@ -1,0 +1,4 @@
+X01
+W ataku pośrednika atakujący wykorzystuje do rozszyfrowania swoje klucze publiczne.   [100.0%]
+PRAWDA
+FAŁSZ

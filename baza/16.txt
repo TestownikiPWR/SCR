@@ -1,0 +1,4 @@
+X10
+Dla wykonania operacji uprzywilejowanej przez gościa potrzebna jest emulacja. O   [100.0%]
+PRAWDA
+FAŁSZ
