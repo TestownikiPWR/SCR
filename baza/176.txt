@@ -1,4 +1,4 @@
-X10
-Wiązanie danych na etapie kompilacji upraszcza translację adresu wirtualnego na fizyczny.   [100.0%]
+X01
+Dla plików o strukturze indeksowanej prostym i naturalnym sposobem dostępu jest dostępsekwencyjny.  [81.48%]
 PRAWDA
 FAŁSZ

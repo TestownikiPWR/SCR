@@ -1,4 +1,4 @@
-X10
-Przesyłanie plików przez scp wymaga posiadania konta użytkownika na zdalnym systemie.   [94.44%]
+X01
+Szyfrowanie asymetryczne jest podobnieefektywne obliczeniowo jak symetryczne.  [100.0%]
 PRAWDA
 FAŁSZ

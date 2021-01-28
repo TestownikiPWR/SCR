@@ -1,4 +1,4 @@
 X00
-Stan uśpienia procesu oznacza oczekiwanie na wykonanie na procesorze.   [0.00%]
+Filtrująca zapora sieciowa komunikuje się z e światemzewnętrznym w imieniu aplikacji wewnątrz sieci chronionej.  [55.17%]
 PRAWDA
 FAŁSZ

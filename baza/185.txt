@@ -1,0 +1,4 @@
+X01
+Pozycjonowanie na plikach (seek) zwykle może być efektywnie realizowane przez system plików.  [52.17%]
+PRAWDA
+FAŁSZ

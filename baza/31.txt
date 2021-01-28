@@ -1,4 +1,4 @@
-X01
-Wsparcie sprzętowe wirtualizacji przyspiesza proces tłumaczenia binarnego.   [100.0%]
+X10
+Podpis cyfrowy jest skrótem dokumentu zaszyfrowanym kluczem prywatnym nadawcy.  [100.0%]
 PRAWDA
 FAŁSZ

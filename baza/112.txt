@@ -1,4 +1,4 @@
 X01
-Wprowadzenie ochrony sekcji krytycznej muteksem z reguły skraca czas wykonania programu.   [100.0%]
+Zwiększanie drobnoziarnistości synchronizacji prowadzi do zmniejszenia jego równoległości.  [77.78%]
 PRAWDA
 FAŁSZ

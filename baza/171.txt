@@ -1,4 +1,4 @@
 X10
-Przy zastępowaniu stron pamięci wirtualnej, ofiara brudna (nadpisana w pamięci) musi zostać przepisana do obszaru wymiany na dysku.   [100.0%]
+W systemach stronicowanej alokacji pamięci istnieje zjawisko fragmentacji wewnętrznej.  [100.0%]
 PRAWDA
 FAŁSZ

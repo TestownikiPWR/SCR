@@ -1,4 +1,4 @@
-X10
-Strategia planowania SRTF (Shortest-Remaining-Time-First) jest algorytmem wywłaszczającym.    [100.0%]
+X01
+Zagłodzenie w planowaniu procesów oznaczaodebranie jednemu procesowi przydzielonych muwcześniej zasobów.  [81.25%]
 PRAWDA
 FAŁSZ

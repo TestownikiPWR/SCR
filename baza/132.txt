@@ -1,4 +1,4 @@
 X10
-Wykrywanie zakleszczenia polega na dopuszczeniu do powstania zakleszczenia, i podjęciu próby jego eliminacji.   [100.0%]
+Partycjonowanie czasu pracy procesora możedoprowadzić do manowania cykli obliczeniowychpodczas gdy są procesy oczekujące na obliczenia.  [100.0%]
 PRAWDA
 FAŁSZ

@@ -1,4 +1,4 @@
-X01
-Robakiem nazywa się fragment kodu przyklejający się do wykonywalnych programów.   [100.0%]
+X10
+ + Przechowywanie haseł w postaci zahaszowanej elininuje zogrożenie wynikające zwykradzenia haseł z systemu.  [100.0%]
 PRAWDA
 FAŁSZ

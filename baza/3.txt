@@ -1,4 +1,4 @@
-X10
-Dowiązania (linki) w systemie plików pozwalają na tworzenie acyklicznej, niedrzewiastej struktury katalogów.    [100.0%]
+X00
+Standardową reakcją na otrzymanie sygnału jest śmierć procesu (dla większości typów sygnałów).  [0.00%]
 PRAWDA
 FAŁSZ

@@ -1,4 +1,4 @@
 X10
-Mutex jest szczególnym przypadkiem semafora.   [75.0%]
+Oczekiwanie na zmiennej warunkowej wymaga wcześniejszego zablokowania stowarzyszonego muteksu.  [87.5%]
 PRAWDA
 FAŁSZ

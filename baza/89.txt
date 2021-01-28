@@ -1,4 +1,4 @@
 X10
-Jeden proces może zawierać tylko jeden wątek, lub proces może składać się z wielu wątków.   [100.0%]
+Obsługa sygnałów w programach wielowątkowychwymaga innego podejścia niż w programach bez wątków.  [100.0%]
 PRAWDA
 FAŁSZ

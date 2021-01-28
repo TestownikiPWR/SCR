@@ -1,4 +1,4 @@
 X10
-Zmienna warunkowa służy do warunkowego wykonania sekcji krytycznej przez wątki lub procesy.   [80.0%]
+Algorytm wykrywania zakleszczeń znajduje procesy, które mogą się zakończyć zwykorzystaniem dostępnych zasobów.  [100.0%]
 PRAWDA
 FAŁSZ

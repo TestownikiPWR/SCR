@@ -1,4 +1,4 @@
-X00
-Aby zapewnić skuteczność szyfrowania należy zastosować albo tajny klucz albo tajny algorytm szyfrowania.   [55.56%]
+X10
+Połączenie ssh do systemu zdalnego możliwe jest zautentykacja za pomocą klucza publicznego.  [50.0%]
 PRAWDA
 FAŁSZ

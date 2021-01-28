@@ -1,4 +1,4 @@
-X10
-W systemie stosującym wywłaszczanie zasobów nie może dojść do zakleszczenia.   [100.0%]
+X01
+Narzut czasowy na przełączanie kontekstu zależy od stosowanej przez system operacyjny strategiiszeregowania.  [100.0%]
 PRAWDA
 FAŁSZ

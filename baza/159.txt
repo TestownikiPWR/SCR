@@ -1,4 +1,4 @@
-X10
-Tik określa w systemie operacyjnym okres, z jakim system wykonuje swoje cykliczne procedury administracyjne.   [100.0%]
+X01
+Wartość time_t służy do określania czasu obliczeń procesu jako liczby sekund.  [94.12%]
 PRAWDA
 FAŁSZ

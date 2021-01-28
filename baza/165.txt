@@ -1,4 +1,4 @@
-X10
-Dyscyplina stosowa polega na dealokowaniu przydzielonych bloków pamięci w odwrotnej kolejności do ich przydzielania.   [91.67%]
+X01
+Proces w czasie pracy ogólnie posługuje się adresami fizycznymi.  [100.0%]
 PRAWDA
 FAŁSZ

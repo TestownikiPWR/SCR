@@ -1,4 +1,4 @@
 X10
-Obsługa sygnałów w programach wielowątkowych wymaga innego podejścia niż w programach bez wątków.   [100.0%]
+Tworzenie nowych wątków jest szybsze niż tworzenie nowych procesów.  [100.0%]
 PRAWDA
 FAŁSZ

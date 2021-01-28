@@ -1,4 +1,4 @@
-X10
-W zamkniętych systemach z planowaniem priorytetowym można stosować statyczny przydział priorytetów.   [100.0%]
+X01
+Zastosowanie algorytmu planowania FCFS (First-Come-First-Served) wymaga znajomości czasu obliczeń (fazy procesora)planowanych zadań.  [100.0%]
 PRAWDA
 FAŁSZ

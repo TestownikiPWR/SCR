@@ -1,4 +1,4 @@
 X01
-Klucze publiczne należy dostarczyć swoim partnerom w bezpieczny i poufny sposób.   [95.0%]
+Połączenie ssh do systemu zdalnego możliwe jest zautentykacją za pomocą hasła do systemu lokalnego.  [100.0%]
 PRAWDA
 FAŁSZ

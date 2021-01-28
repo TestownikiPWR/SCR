@@ -1,4 +1,4 @@
-X00
-W przypadku wiązania na etapie ładowania adres fizyczny jest identyczny z logicznym.   [52.17%]
+X01
+Wymiatanie jest procedurą zastępowania stron w procesie obsługi błędu strony pamięciwirtualnej.  [100.0%]
 PRAWDA
 FAŁSZ

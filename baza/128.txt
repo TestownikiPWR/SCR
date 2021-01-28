@@ -1,4 +1,4 @@
-X10
-Unikanie zakleszczeń polega na analizowaniu warunków przydziału zasobu, aby nie dopuścić do powstania zakleszczenia.   [100.0%]
+X01
+Zakleszczenie powstaje w zbiorze procesów, gdy każdy z nich oczekuje na jakiś zasób, na który oczekujerównież inny proces ze zbioru.  [87.5%]
 PRAWDA
 FAŁSZ

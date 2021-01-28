@@ -1,4 +1,4 @@
-X10
-Model wątków daje większą współbieżność działania programów w porównaniu z modelem procesów.   [100.0%]
+X01
+Sygnalizacja błędów przez funkcje systemowe POSIX wymaga specjalnej obsługi w programach wielowątkowych.  [100.0%]
 PRAWDA
 FAŁSZ

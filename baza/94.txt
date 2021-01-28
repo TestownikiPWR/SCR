@@ -1,4 +1,4 @@
 X01
-Obsługa wątków użytkownika (tworzenie, przełączanie) typowo trwa dłużej niż obsługa wątków jądra.   [80.0%]
+Tworzenie podprocesu funkcją fork w procesie wielowątkowym zawsze tworzy nowy nowy proces wielowątkowy.  [100.0%]
 PRAWDA
 FAŁSZ

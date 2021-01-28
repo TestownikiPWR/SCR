@@ -1,4 +1,4 @@
-X01
-Wartość time_t służy do określania czasu obliczeń procesu jako liczby sekund.   [94.12%]
+X10
+Dyscyplina stosowa polega na dealokowaniu przydzielonychbloków pamięci w odwrotnej kolejności do ich przydzielania.  [91.67%]
 PRAWDA
 FAŁSZ

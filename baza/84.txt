@@ -1,4 +1,4 @@
-X10
-Sumaryczna ilość danych przesyłanych przez potok jest nieograniczona.   [100.0%]
+X01
+Dla wątków jądra, przejście jednego wątku do stanu oczekiwania blokuje równoległość pozostałych wątków.  [100.0%]
 PRAWDA
 FAŁSZ

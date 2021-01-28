@@ -1,4 +1,4 @@
-X10
-Barierę można wykorzystać do jednoczesnego uruchomienia zestawu wątków lub procesów.   [100.0%]
+X01
+Mutex pozwala implementować większą równoległość obliczeń niż blokady zapisu i odczytu.  [100.0%]
 PRAWDA
 FAŁSZ

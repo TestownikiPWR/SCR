@@ -1,4 +1,4 @@
-X10
-Ochrona sekcji krytycznej muteksem polega na zablokowaniu muteksu na czas jej wykonywania.   [100.0%]
+X01
+Wprowadzenie ochrony sekcji krytycznej muteksem z reguły skraca czas wykonania programu.  [100.0%]
 PRAWDA
 FAŁSZ

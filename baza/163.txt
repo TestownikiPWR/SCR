@@ -1,4 +1,4 @@
-X00
-Zegar można zaprogramować, aby po określonym czasie przysłał sygnał do procesu/wątku.   [65.22%]
+X01
+Fragmentację zewnętrzną można minimalizować stosując małe jednostki alokacji.  [75.0%]
 PRAWDA
 FAŁSZ

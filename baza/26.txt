@@ -1,4 +1,4 @@
-X00
-Próba wykonania instrukcji wrażliwej powoduje pułapkę do hypervisora VMM.   [53.85%]
+X10
+Wirtualny tryb jądra wykonuje się na w fizycznymtrybie użytkownika.  [100.0%]
 PRAWDA
 FAŁSZ

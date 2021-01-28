@@ -1,4 +1,4 @@
-X10
-Sprawdzenie podpisu cyfrowego polega na jego zdeszyfrowaniu kluczem publicznym nadawcy i porównaniu z wersją obliczoną.   [75.0%]
+X01
+Zadaniem Centrum Certyfikacji CA jest przekazywanie odbiorcom zaszyfrowanychdokumentów.  [96.88%]
 PRAWDA
 FAŁSZ

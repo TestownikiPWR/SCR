@@ -1,4 +1,4 @@
-X00
-Zasoby w systemie Unix istnieją w celu zwiększenia wydajności wykonywania procesów.   [0.00%]
+X01
+Przechowywanie haseł w postaci zahaszowanej eliminuje zagrożenie wynikające z ataków słownikowych nahasła.  [100.0%]
 PRAWDA
 FAŁSZ

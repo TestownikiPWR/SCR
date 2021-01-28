@@ -1,4 +1,4 @@
-X01
-Planista odpowiada za wykonywanie wyroków ekspedytora.   [100.0%]
+X10
+Strategia planowania SRTF (Shortest-Remaining-Time-First) jest algorytmemwywłaszczającym.  [100.0%]
 PRAWDA
 FAŁSZ

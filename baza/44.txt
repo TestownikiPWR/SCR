@@ -1,4 +1,4 @@
 X10
-Szyfrowanie symetryczne oznacza szyfrowanie komunikatów tym samym kluczem który używany jest do deszyfrowania.   [100.0%]
+Dziedzina zabezpieczeń jest zbiorem praw dostępudla pewnego obiektu.  [100.0%]
 PRAWDA
 FAŁSZ

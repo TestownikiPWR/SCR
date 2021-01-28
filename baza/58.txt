@@ -1,4 +1,4 @@
-X00
-Proces może zakończyć pracę swojego rodzica wysyłając mu sygnał.   [0.00%]
+X01
+= $ól jest losowym dodatkiem do hasła użytkownika. generowanym przy każdym oblic/zoniu haszu hasła.  [100.0%]
 PRAWDA
 FAŁSZ

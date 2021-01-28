@@ -1,4 +1,4 @@
-X10
-Zasada minimalnego przywileju oznacza, że aplikacjom działającym w przestrzeni użytkownika należy przyznawać minimalne przywileje (brak możliwości wykonywania operacji w trybie jądra).   [100.0%]
+X01
+7 Stosouanie silnych hoseł ma na celu zapobieganie przechwycenia hasła w nosencie jego uprowadzania.  [100.0%]
 PRAWDA
 FAŁSZ

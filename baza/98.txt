@@ -1,4 +1,4 @@
 X01
-Tworzenie podprocesu funkcją fork w procesie wielowątkowym zawsze tworzy nowy nowy proces wielowątkowy.    [100.0%]
+Wątki użytkownika w ramach jednego procesu mogą jednocześnie wykonywać się na różnych procesorach/rdzeniach komputera.  [100.0%]
 PRAWDA
 FAŁSZ

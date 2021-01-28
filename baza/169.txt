@@ -1,4 +1,4 @@
-X01
-Proces w czasie pracy ogólnie posługuje się adresami fizycznymi.   [100.0%]
+X00
+W przypadku wiązania na etapie ładowania adres fizyczny jest identyczny z logicznym.  [52.17%]
 PRAWDA
 FAŁSZ

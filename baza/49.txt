@@ -1,4 +1,4 @@
 X10
-Dziedzina zabezpieczeń jest zbiorem praw dostępu dla pewnego obiektu.   [100.0%]
+Robak jest samodzielnym programem funkcjonującym w zainfekowanym systemie i/lubrozprzestrzeniającym się do innych systemów.  [90.91%]
 PRAWDA
 FAŁSZ

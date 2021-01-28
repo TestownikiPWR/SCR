@@ -1,4 +1,4 @@
 X10
-Potoki są modelem komunikacji międzyprocesowej jednokierunkowej typu jeden-do-jednego.   [100.0%]
+Próba odczytu z potoku zawsze zwraca natychmiast niepusty bufor danych, lub czeka gdy danych brak.  [100.0%]
 PRAWDA
 FAŁSZ

@@ -1,4 +1,4 @@
 X10
-Przekroczenie (overrun) timera oznacza wystąpienie kolejnego przeterminowania timera zanim zakończyła się obsługa poprzedniego.   [100.0%]
+Timer można zaprogramować, aby po określonym czasie przysłał sygnał do procesu/wątku.  [100.0%]
 PRAWDA
 FAŁSZ

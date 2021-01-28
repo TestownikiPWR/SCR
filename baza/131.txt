@@ -1,4 +1,4 @@
-X01
-Warunkiem powstania zakleszczenia jest obsługa wywłaszczania zasobów przez system.   [100.0%]
+X10
+Optymalizacja wykorzystania procesora w planowaniu procesów normalnie powoduje zwiększenie średniego czasu oczekiwania procesów na wykonanie.  [100.0%]
 PRAWDA
 FAŁSZ

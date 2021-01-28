@@ -1,4 +1,4 @@
-X10
-Kod jądra systemu operacyjnego wykonuje się na procesorze w trybie jądra.   [100.0%]
+X01
+Parawirtualizacja wymaga modyfikacji systemu operacyjnego gospodarza.  [96.77%]
 PRAWDA
 FAŁSZ

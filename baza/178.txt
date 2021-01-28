@@ -1,4 +1,4 @@
-X01
-Zbiorem roboczym procesu nazywamy jego całkowitą alokację pamięci wirtualnej.   [63.64%]
+X10
+Dowiązania (linki) w systemie plików pozwalają na tworzenie acyklicznej, niedrzewiastej strukturykatalogów.  [100.0%]
 PRAWDA
 FAŁSZ

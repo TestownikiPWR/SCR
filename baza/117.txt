@@ -1,4 +1,4 @@
-X01
-Zwiększanie drobnoziarnistości synchronizacji prowadzi do zmniejszenia jego równoległości.   [77.78%]
+X10
+Cykl skierowany na grafie alokacji zasobów wskazuje zakleszczenie pomiędzy procesami.  [100.0%]
 PRAWDA
 FAŁSZ

@@ -1,4 +1,4 @@
-X01
-W ataku pośrednika atakujący wykorzystuje do rozszyfrowania swoje klucze publiczne.   [100.0%]
+X10
+Koniem trojańskim nazywa się wykonywalny program przekazany użytkownikowi w celu jego uruchomienia przez tegoużytkownika.  [100.0%]
 PRAWDA
 FAŁSZ

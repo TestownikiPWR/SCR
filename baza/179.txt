@@ -1,4 +1,4 @@
 X10
-Zwykła tablica stron pamięci zawiera adresy fizyczne przydzielonych stron pamięci procesu.   [100.0%]
+Dowiązania twarde (hard links) w systemach plików pozwalają na tworzenie cykli skierowanych w strukturze katalogów.  [100.0%]
 PRAWDA
 FAŁSZ

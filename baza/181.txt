@@ -1,0 +1,4 @@
+X01
+Katalogi jednopoziomowe umożliwiają korzystanie z odseparowanych przestrzeni nazw plików.  [86.67%]
+PRAWDA
+FAŁSZ

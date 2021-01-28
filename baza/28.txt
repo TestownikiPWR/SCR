@@ -1,4 +1,4 @@
-X01
-System pracujący na maszynie wirtualnej jako gość jest bardziej odporny na awarie niż jako pracujący na maszynie fizycznej.   [84.21%]
+X00
+Aby zapewnić skuteczność szyfrowania należy zastosować albo tajny klucz albo tajny algorytmszyfrowania.  [55.56%]
 PRAWDA
 FAŁSZ

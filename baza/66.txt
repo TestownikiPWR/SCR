@@ -1,4 +1,4 @@
-X00
-Po odebraniu sygnału przez proces, może on kontynuować pracę (dla większości typów sygnałów).   [0.00%]
+X01
+Sól jest losowym dodatkiem do hasła użytkownika, generowanym przy każdym obliczaniu haszu hasła.  [100.0%]
 PRAWDA
 FAŁSZ

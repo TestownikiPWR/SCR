@@ -1,4 +1,4 @@
-X00
-Każdy wątek, podobnie jak proces, posiada swój własny stos obliczeniowy.   [60.0%]
+X10
+Pthread prezentuje model wątków łączący model wątkówużytkownika z modelem wątków jądra.  [100.0%]
 PRAWDA
 FAŁSZ

@@ -1,4 +1,4 @@
 X10
-Operacje I/O na potoku wykonuje się funkcjami open/read/HfffEljak dla plików.   [100.0%]
+Próba odczytu z potoku zawsze zwraca natychmiast niepusty bufor danych, lub bufor pusty gdy danych brak.  [100.0%]
 PRAWDA
 FAŁSZ

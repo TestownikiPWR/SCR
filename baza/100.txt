@@ -1,4 +1,4 @@
 X10
-Wątki użytkownika są z reguły szybsze niż wątki jądra.   [100.0%]
+Do synchronizacji wielu wątków komunikujących się przez pamięć globalną, mutex jest wystarczającym elementem.  [100.0%]
 PRAWDA
 FAŁSZ

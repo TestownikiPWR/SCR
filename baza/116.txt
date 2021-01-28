@@ -1,4 +1,4 @@
-X10
-Zwiększanie drobnoziarnistości synchronizacji może zwiększyć czas wykonania całego programu.   [95.0%]
+X01
+Celem numerowania zasobów jest zapewnienie, by ważniejsze zasoby byłyprzydzielane najpierw.  [100.0%]
 PRAWDA
 FAŁSZ

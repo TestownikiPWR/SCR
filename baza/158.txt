@@ -1,4 +1,4 @@
-X10
-System operacyjny może synchronizować swój zegar systemowy dla utrzymania zgodności czasu z innymi systemami.   [100.0%]
+X01
+Timery typowo mogą odmierzać czas zarówno do przodu jak i do tyłu.  [97.56%]
 PRAWDA
 FAŁSZ

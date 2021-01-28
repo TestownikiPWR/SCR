@@ -1,4 +1,4 @@
-X01
-Fragmentację zewnętrzną można minimalizować stosując małe jednostki alokacji. O O   [75.0%]
+X10
+Proces zamiany adresów logicznych na fizyczne nazywa się translacją adresów.  [100.0%]
 PRAWDA
 FAŁSZ

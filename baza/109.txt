@@ -1,4 +1,4 @@
-X10
-Oczekiwanie na zmiennej warunkowej wymaga wcześniejszego zablokowania stowarzyszonego muteksu.   [87.5%]
+X01
+Wyścigi mają miejsce, kiedy dwa równoległe wątki wspólniepowodują błąd w dostępie do wspólnej pamięci.  [83.33%]
 PRAWDA
 FAŁSZ

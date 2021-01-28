@@ -1,4 +1,4 @@
-X00
-Wszystkie procesy w systemie Unix tworzone są przez klonowanie funkcją fork (z wyjątkiem procesu init).   [0.00%]
+X10
+Pośrednicząca zapora sieciowa analizuje pakietysieciowe dla podjęcia decyzji czy pakiet jest rzetelnyczy nie.  [71.43%]
 PRAWDA
 FAŁSZ

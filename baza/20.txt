@@ -1,4 +1,4 @@
 X10
-Maszynę wirtualną można zaimplementować jako proces użytkownika, bez żadnych przywilejów.   [100.0%]
+Procesor niewirtualizowalny posiada instrukcje wrażliwe ale nieuprzywilejowane.  [100.0%]
 PRAWDA
 FAŁSZ

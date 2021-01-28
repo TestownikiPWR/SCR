@@ -1,4 +1,4 @@
-X01
-Dostęp sekwencyjny do plików odnosi się tylko do plików przechowywanych na taśmach magnetycznych.   [100.0%]
+X00
+Stan uśpienia procesu oznacza oczekiwanie na wykonanie na procesorze.  [0.00%]
 PRAWDA
 FAŁSZ

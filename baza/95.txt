@@ -1,4 +1,4 @@
-X10
-Pthread prezentuje model wątków łączący model wątków użytkownika z modelem wątków jądra.   [100.0%]
+X01
+Tworzenie podprocesu funkcją fork w procesiewielowątkowym zawsze tworzy nowy nowy proceswielowątkowy.  [100.0%]
 PRAWDA
 FAŁSZ

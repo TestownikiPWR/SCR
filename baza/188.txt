@@ -1,0 +1,4 @@
+X01
+Użycie mapy bitowej do obsługi puli wolnych bloków dyskowych daje przydział i zwalnianiepojedynczych bloków w stałym czasie.  [94.12%]
+PRAWDA
+FAŁSZ

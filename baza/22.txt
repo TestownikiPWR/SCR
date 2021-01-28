@@ -1,4 +1,4 @@
-X01
-Parawirtualizacja pozwala na efektywną implementację tłumaczenia binarnego.   [95.0%]
+X00
+Próba wykonania instrukcji wrażliwejpowoduje pułapkę do hypervisora VMM.  [53.85%]
 PRAWDA
 FAŁSZ

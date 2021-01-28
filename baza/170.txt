@@ -1,4 +1,4 @@
 X10
-Proces zamiany adresów logicznych na fizyczne nazywa się translacją adresów. O   [100.0%]
+W systemach ciągłej alokacji pamięci istnieje zjawisko fragmentacji zewnętrznej.  [94.44%]
 PRAWDA
 FAŁSZ

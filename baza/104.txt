@@ -1,4 +1,4 @@
 X10
-Do synchronizacji wielu wątków komunikujących się przez pamięć globalną, mutex jest wystarczającym elementem.   [100.0%]
+Ochrona sekcji krytycznej muteksem polega na zablokowaniu muteksu na czas jejwykonywania.  [100.0%]
 PRAWDA
 FAŁSZ

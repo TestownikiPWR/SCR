@@ -1,4 +1,4 @@
-X10
-Komunikacja przez pamięć wspólną wymaga skopiowania segmentu pamięci wspólnej do przestrzeni adresowej procesów.    [100.0%]
+X01
+Komunikacja przez potok wymaga zewnętrznej synchronizacji przesyłania.  [100.0%]
 PRAWDA
 FAŁSZ

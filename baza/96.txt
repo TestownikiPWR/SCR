@@ -1,4 +1,4 @@
-X01
-Sygnalizacja błędów przez funkcje systemowe POSIX wymaga specjalnej obsługi w programach wielowątkowych.   [100.0%]
+X10
+Wątki użytkownika można stosować w systemach w ogóle niewspierających wątków.  [100.0%]
 PRAWDA
 FAŁSZ

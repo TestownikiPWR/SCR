@@ -1,4 +1,4 @@
 X10
-W systemach stronicowanej alokacji pamięci istnieje zjawisko fragmentacji wewnętrznej. O O   [100.0%]
+Zwykła tablica stron pamięci zawiera adresy fizyczne przydzielonych stron pamięci procesu.  [100.0%]
 PRAWDA
 FAŁSZ

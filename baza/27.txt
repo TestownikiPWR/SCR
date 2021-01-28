@@ -1,4 +1,4 @@
 X01
-System gościa w ramach maszyny wirtualnej wykonuje się na procesorze wirtualnym VCPU.   [100.0%]
+Wsparcie sprzętowe wirtualizacji przyspiesza proces tłumaczenia binarnego.  [100.0%]
 PRAWDA
 FAŁSZ

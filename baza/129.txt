@@ -1,4 +1,4 @@
-X10
-Usuwanie zakleszczeń można realizować przez zabijanie procesów.   [97.73%]
+X01
+Kwant czasu planowania rotacyjnego RR (Round-Robin) powinien być mniejszy niż czas przełączania kontekstu.  [100.0%]
 PRAWDA
 FAŁSZ

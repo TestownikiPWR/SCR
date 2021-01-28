@@ -1,4 +1,4 @@
-X10
-Interfejs nowoczesny funkcji czasu POSIX rozszerza interfejs tradycyjny, który jest przestarzały i niewystarczający.   [100.0%]
+X01
+Podstawowym urządzeniem odmierzania czasu systemu operacyjnegojest zegar czasu rzeczywistego RTC.  [100.0%]
 PRAWDA
 FAŁSZ

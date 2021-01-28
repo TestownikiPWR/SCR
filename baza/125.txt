@@ -1,4 +1,4 @@
 X10
-Numerowanie zasobów pozwala na zapobieganie zakleszczeniom.   [100.0%]
+W systemie stosującym wywłaszczanie zasobów nie może dojść do zakleszczenia.  [100.0%]
 PRAWDA
 FAŁSZ

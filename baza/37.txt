@@ -1,4 +1,4 @@
 X01
-Połączenie ssh do systemu zdalnego możliwe jest z autentykacją za pomocą hasła do systemu lokalnego.   [100.0%]
+Skróty kryptograficzne stosuje się, w celu zmniejszenia wielkości przesyłanych dokumentów.  [100.0%]
 PRAWDA
 FAŁSZ

@@ -1,4 +1,4 @@
 X01
-Użycie mapy bitowej do obsługi puli wolnych bloków dyskowych daje przydział i zwalnianie pojedynczych bloków w stałym czasie.   [94.12%]
+Dublowane tablice stron potrzebne są dla zapewnienia zgodności tablic stron gościa z tablicą strongospodarza.  [100.0%]
 PRAWDA
 FAŁSZ

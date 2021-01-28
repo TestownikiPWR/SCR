@@ -1,4 +1,4 @@
-X01
-Graf alokacji zasobów pozwala przedstawić zasoby zwolnione przez procesy.   [100.0%]
+X10
+Usuwanie zakleszczeń można realizować przez zabijanieprocesów.  [97.73%]
 PRAWDA
 FAŁSZ

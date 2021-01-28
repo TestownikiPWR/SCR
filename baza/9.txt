@@ -1,4 +1,4 @@
-X10
-Pliki o strukturze indeksowanej składają się z indeksu i części danych.   [85.71%]
+X00
+Priorytety w systemie operacyjnym istnieją w celu kontrolowania dostępu do zasobów systemu.  [0.00%]
 PRAWDA
 FAŁSZ

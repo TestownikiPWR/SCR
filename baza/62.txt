@@ -1,4 +1,4 @@
-X00
-Środowisko procesu w systemie Unix to jest zbiór innych procesów, z którymi dany proces się komunikuje.   [0.00%]
+X10
+Model Biby jest właściwy dla zapewnienia integralności dokumentów.  [93.33%]
 PRAWDA
 FAŁSZ

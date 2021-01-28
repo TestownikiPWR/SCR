@@ -1,4 +1,4 @@
-X01
-Wprowadzenie ochrony sekcji krytycznej muteksem umożliwia współbieżność jej wykonania.   [100.0%]
+X10
+Zwiększanie drobnoziarnistości synchronizacji może zwiększyć czas wykonania całego programu.  [95.0%]
 PRAWDA
 FAŁSZ

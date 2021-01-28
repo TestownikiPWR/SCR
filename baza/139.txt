@@ -1,4 +1,4 @@
 X10
-Przełączanie kontekstu jest operacją wykonywaną przez dyspozytora (dispatcher) przy realizacji planowania procesów.   [100.0%]
+Strategia planowania oparta na priorytetach może doprowadzić do zagłodzenia pewnych procesów.  [100.0%]
 PRAWDA
 FAŁSZ

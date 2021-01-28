@@ -1,4 +1,4 @@
-X01
-Próba odczytu z pustego potoku zawsze zwraca pusty bufor danych.   [100.0%]
+X10
+Aplikacja współbieżna zbudowana z wątków będzie działać ogólnie szybciej niż gdyby była zbudowana z procesów.  [100.0%]
 PRAWDA
 FAŁSZ

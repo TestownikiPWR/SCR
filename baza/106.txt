@@ -1,4 +1,4 @@
-X01
-Mutex jest zmienną logiczną, której funkcje obsługi muszą być implementowane przez program użytkownika.   [100.0%]
+X10
+Sekcją krytyczną nazywamy fragment programu, wykonujący na danych globalnych operacje mogące przy współbieżności prowadzić do wyścigów.  [100.0%]
 PRAWDA
 FAŁSZ

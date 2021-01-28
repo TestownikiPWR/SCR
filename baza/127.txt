@@ -1,4 +1,4 @@
-X01
-Unikanie zakleszczeń eliminuje warunki konieczne zakleszczenia i gwarantuje, że ono nie powstanie.   [85.71%]
+X10
+Wykrywanie zakleszczenia polega na dopuszczeniu dopowstania zakleszczenia, i podjęciu próby jego eliminacji.  [100.0%]
 PRAWDA
 FAŁSZ

@@ -1,4 +1,4 @@
 X01
-Listy praw dostępu ACL określają uprawnienia zdefiniowane dla pewnego użytkownika.   [100.0%]
+Robakiem nazywa się fragment kodu przyklejający się do wykonywalnych programów.  [100.0%]
 PRAWDA
 FAŁSZ

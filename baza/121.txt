@@ -1,4 +1,4 @@
 X01
-Celem numerowania zasobów jest zapewnienie, by ważniejsze zasoby były przydzielane najpierw.   [100.0%]
+Stan niebezpieczny systemu oznacza, że w wyniku dalszej pracy procesów na pewno dojdzie do zakleszczenia.  [100.0%]
 PRAWDA
 FAŁSZ

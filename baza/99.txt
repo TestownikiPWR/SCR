@@ -1,4 +1,4 @@
 X10
-Wątki użytkownika można stosować w systemach w ogóle niewspierających wątków.   [100.0%]
+Barierę można wykorzystać do jednoczesnego uruchomienia zestawu wątków lub procesów.  [100.0%]
 PRAWDA
 FAŁSZ

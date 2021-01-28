@@ -1,4 +1,4 @@
 X01
-Potoki są modelem komunikacji międzyprocesowej typu rozgłaszania (jeden-do-wielu).    [100.0%]
+Próba odczytu z pustego potoku zawsze zwraca pusty bufor danych.  [100.0%]
 PRAWDA
 FAŁSZ

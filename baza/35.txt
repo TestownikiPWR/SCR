@@ -1,4 +1,4 @@
 X10
-Podpis cyfrowy jest skrótem dokumentu zaszyfrowanym kluczem prywatnym nadawcy.    [100.0%]
+Przesyłanie plików przez scp wymaga posiadania kontaużytkownika na zdalnym systemie.  [94.44%]
 PRAWDA
 FAŁSZ

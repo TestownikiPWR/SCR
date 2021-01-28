@@ -1,4 +1,4 @@
 X01
-Parawirtualizacja wymaga modyfikacji systemu operacyjnego gospodarza.   [96.77%]
+System gościa w ramach maszyny wirtualnej wykonuje się na procesorze wirtualnym VCPU.  [100.0%]
 PRAWDA
 FAŁSZ

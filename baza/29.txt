@@ -1,4 +1,4 @@
-X10
-Systemy gości w ramach jednego gospodarza mogą komunikować się między sobą, np. przez siać.   [95.83%]
+X01
+Klucze publiczne należy dostarczyć swoim partnerom w bezpieczny ipoufny sposób.  [95.0%]
 PRAWDA
 FAŁSZ

@@ -1,4 +1,4 @@
-X10
-Strategia planowania oparta na priorytetach może doprowadzić do zagłodzenia pewnych procesów.   [100.0%]
+X01
+Zastosowanie algorytmu planowania FCFS (First-Come--First-Served) wymaga znajomości czasu obliczeń (fazyprocesora) planowanych zadań.  [100.0%]
 PRAWDA
 FAŁSZ

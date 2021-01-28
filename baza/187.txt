@@ -1,0 +1,4 @@
+X10
+Użycie listy wskaźnikowej do obsługi puli wolnych bloków dyskowych daje przydział i zwalnianie pojedynczych bloków wstałym czasie.  [100.0%]
+PRAWDA
+FAŁSZ

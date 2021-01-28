@@ -1,4 +1,4 @@
-X10
-Migawka (snapshot) jest zapisem stanu systemu gościa.    [100.0%]
+X01
+Programy użytkowników wykonują się na procesorze w całości w trybieużytkownika.  [100.0%]
 PRAWDA
 FAŁSZ

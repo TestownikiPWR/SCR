@@ -1,4 +1,4 @@
 X01
-Każdy wątek, podobnie jak proces, ma swoją oddzielną przestrzeń adresową.    [100.0%]
+Obsługa wątków użytkownika (tworzenie, przełączanie) typowo trwa dłużej niż obsługa wątków jądra.  [80.0%]
 PRAWDA
 FAŁSZ

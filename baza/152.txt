@@ -1,4 +1,4 @@
-X10
-Funkcje sleep/nanosleep mogą zakończyć się po czasie krótszym niż zadany jej czas.   [100.0%]
+X00
+Opóźnieniem (latency) timera nazywamy spóźnionewykonanie akcji przeterminowanego timera.  [46.15%]
 PRAWDA
 FAŁSZ

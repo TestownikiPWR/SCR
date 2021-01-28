@@ -1,4 +1,4 @@
-X00
-Proces uniksowy jest zawsze w stanie wykonywalnym albo uśpionym.   [0.00%]
+X01
+„| Przechowywanie haseł w postaci zahaszowanej eliminuje zagrożenie wynikające zJkatakóu ałounikowych na hasła.  [100.0%]
 PRAWDA
 FAŁSZ

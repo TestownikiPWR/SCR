@@ -1,4 +1,4 @@
-X01
-Bit ważności w tablicy stron pamięci służy do oznaczania stron współdzielonych między procesami.   [94.44%]
+X10
+Obsługa błędu strony (page fault) wymaga sprowadzeniabrakującej strony z obszaru wymiany na dysku do pamięci fizycznej.  [92.31%]
 PRAWDA
 FAŁSZ

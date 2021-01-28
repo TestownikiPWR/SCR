@@ -1,4 +1,4 @@
-X01
-Strategia planowania SJF (Shortest-Jobtime-First) dokonuje wywłaszczenia, gdy pojawi się zadanie o krótszym czasie wykonania.   [100.0%]
+X10
+Wywłłaszczanie jest czynnością mogącą spowodowaćzagłodzenie pewnych procesów w systemie.  [100.0%]
 PRAWDA
 FAŁSZ

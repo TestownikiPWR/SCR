@@ -1,4 +1,4 @@
 X10
-Próba odczytu z potoku zawsze zwraca natychmiast niepusty bufor danych, lub czeka gdy danych brak.   [100.0%]
+Wielkość bufora danych odczytanych z potoku pojedynczym wywołaniem read() jest ograniczona wielkościąpotoku.  [100.0%]
 PRAWDA
 FAŁSZ

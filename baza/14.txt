@@ -1,4 +1,4 @@
-X01
-Windowsowa tablica alokacji FAT wykorzystuje indeksowaną alokację bloków dyskowych.   [95.0%]
+X10
+Jednym z zadań hypervisora jest obsługa komunikacji pomiędzysystemami gospodarza i gości.  [100.0%]
 PRAWDA
 FAŁSZ

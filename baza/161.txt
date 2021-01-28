@@ -1,4 +1,4 @@
 X01
-Timery typowo mogą odmierzać czas zarówno do przodu jak i do tyłu.   [97.56%]
+Bit ważności w tablicy stron pamięci służy do oznaczania stron współdzielonych między procesami.  [94.44%]
 PRAWDA
 FAŁSZ

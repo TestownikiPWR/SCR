@@ -1,4 +1,4 @@
-X00
-Zwykły proces w systemie Unix otrzymuje priorytet, którego nie może sam zmienić.   [0.00%]
+X10
+Stosowanie silnych haseł ma na celu przeciwdziałanie atakom typu słownikowego.  [100.0%]
 PRAWDA
 FAŁSZ

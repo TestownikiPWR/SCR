@@ -1,4 +1,4 @@
-X10
-Operacja inkrementacji semafora jest możliwa bez czekania.   [100.0%]
+X01
+Potoki są modelem komunikacji międzyprocesowej typu rozgłaszania (jeden-do-wielu).  [100.0%]
 PRAWDA
 FAŁSZ

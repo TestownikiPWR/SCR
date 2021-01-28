@@ -1,4 +1,4 @@
-X01
-Dublowane tablice stron potrzebne są dla zapewnienia zgodności tablic stron gościa z tablicą stron gospodarza.   [100.0%]
+X10
+Migawka (snapshot) jest zapisem stanu systemu gościa.  [100.0%]
 PRAWDA
 FAŁSZ

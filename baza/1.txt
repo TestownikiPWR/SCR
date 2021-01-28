@@ -1,4 +1,4 @@
-X01
-Dla plików o strukturze indeksowanej prostym i naturalnym sposobem dostępu jest dostęp sekwencyjny.    [81.48%]
+X00
+Procesy tworzone są w systemach operacyjnych w celu zwiększenia efektywności obliczeń.  [0.00%]
 PRAWDA
 FAŁSZ

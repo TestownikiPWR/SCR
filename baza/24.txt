@@ -1,4 +1,4 @@
-X10
-Procesor niewirtualizowalny posiada instrukcje wrażliwe ale nieuprzywilejowane. O O   [100.0%]
+X01
+System pracujący na maszynie wirtualnej jako gość jestbardziej odporny na awarie niż jako pracujący na maszyniefizycznej.  [84.21%]
 PRAWDA
 FAŁSZ

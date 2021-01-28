@@ -1,4 +1,4 @@
-X10
-Uniksowa struktura inode wykorzystuje indeksowaną alokację bloków dyskowych.   [93.33%]
+X00
+O ile proces sam się nie uśpi/zawiesi, będzie stale wykonywany na procesorze.  [0.00%]
 PRAWDA
 FAŁSZ

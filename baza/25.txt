@@ -1,4 +1,4 @@
-X01
-Programy użytkowników wykonują się na procesorze w całości w trybie użytkownika. O O   [100.0%]
+X10
+Systemy gości w ramach jednego gospodarza mogą komunikować się między sobą, np. przez siać.  [95.83%]
 PRAWDA
 FAŁSZ

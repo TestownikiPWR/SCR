@@ -1,4 +1,4 @@
-X01
-Nierównomierność (jitter) timera może być spowodowana kumulowaniem się w pracy cyklicznej drobnych błędów.   [100.0%]
+X10
+Przekroczenie (overrun) timera oznacza wystąpienie kolejnego przeterminowania timera zanimzakończyła się obsługa poprzedniego.  [100.0%]
 PRAWDA
 FAŁSZ

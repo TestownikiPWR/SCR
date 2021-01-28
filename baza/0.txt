@@ -1,4 +1,4 @@
-X10
-Blok kontrolny pliku (FCB) zawiera dane niezbędne do realizacji operacji na pliku.   [100.0%]
+X00
+pytanieProces może zakończyć pracę swojego rodzica wysyłając mu sygnał.  [0.00%]
 PRAWDA
 FAŁSZ

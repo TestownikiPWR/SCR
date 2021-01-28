@@ -1,4 +1,4 @@
-X10
-Wielkość bufora danych odczytanych z potoku pojedynczym wywołaniem read() jest ograniczona wielkością potoku.    [100.0%]
+X01
+Funkcje generujące efekty globalne mogą być bez ograniczeń używane w programach z wątkami.  [100.0%]
 PRAWDA
 FAŁSZ

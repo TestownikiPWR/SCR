@@ -1,4 +1,4 @@
-X01
-Komunikacja przez potok wymaga zewnętrznej synchronizacji przesyłania.    [100.0%]
+X10
+Operacje I/O na potoku wykonuje się funkcjami open/read/HfffEljak dla plików.  [100.0%]
 PRAWDA
 FAŁSZ

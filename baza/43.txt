@@ -1,4 +1,4 @@
 X01
-Szyfrowanie asymetryczne jest podobnie efektywne obliczeniowo jak symetryczne.   [100.0%]
+Atak z wykorzystaniem przepełnienia bufora polegana przekazaniu użytkownikowi wykonywalnegoprogramu w celu jego uruchomienia przez tegoużytkownika.  [100.0%]
 PRAWDA
 FAŁSZ

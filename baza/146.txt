@@ -1,4 +1,4 @@
-X10
-Wielopoziomowe kolejki planowania pozwalają stosować inne priorytety dla zadań interakcyjnych i obliczeniowych.   [90.91%]
+X01
+Czas wirtualny procesu oznacza czas zużyty na wirtualizację.  [100.0%]
 PRAWDA
 FAŁSZ

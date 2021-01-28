@@ -1,4 +1,4 @@
-X10
-Dryfem timera nazywamy błąd wynikający z kumulowania się w pracy cyklicznej drobnych błędów.   [100.0%]
+X01
+Nierównomierność (jitter) timera może być spowodowana kumulowaniem się w pracy cyklicznejdrobnych błędów.  [100.0%]
 PRAWDA
 FAŁSZ

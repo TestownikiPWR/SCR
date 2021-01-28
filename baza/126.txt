@@ -1,4 +1,4 @@
 X01
-Stan niebezpieczny systemu oznacza, że w wyniku dalszej pracy procesów na pewno dojdzie do zakleszczenia.   [100.0%]
+Warunkiem powstania zakleszczenia jest obsługa wywłaszczania zasobów przez system.  [100.0%]
 PRAWDA
 FAŁSZ

@@ -1,4 +1,4 @@
-X01
-Podstawowym urządzeniem odmierzania czasu systemu operacyjnego jest zegar czasu rzeczywistego RTC.    [100.0%]
+X10
+Tik określa w systemie operacyjnym okres, z jakim systemwykonuje swoje cykliczne procedury administracyjne.  [100.0%]
 PRAWDA
 FAŁSZ

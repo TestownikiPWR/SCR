@@ -1,4 +1,4 @@
 X10
-Graf alokacji zasobów pozwala przedstawić zasoby przydzielone procesom.    [100.0%]
+Unikanie zakleszczeń polega na analizowaniu warunków przydziału zasobu, aby nie dopuścićdo powstania zakleszczenia.  [100.0%]
 PRAWDA
 FAŁSZ

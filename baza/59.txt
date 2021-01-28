@@ -1,4 +1,4 @@
-X00
-Procesy tworzone są w systemach operacyjnych w celu zwiększenia efektywności obliczeń.   [0.00%]
+X10
+Atak słownikowy polega na przygotowaniu listy potencjalnych haseł z użyciem słownikadanego języka.  [100.0%]
 PRAWDA
 FAŁSZ

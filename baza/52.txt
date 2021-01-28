@@ -1,4 +1,4 @@
-X10
-Mechanizm set-uid pozwala na tymczasowe uzyskanie przez program zwykłego użytkownika przywilejów innego użytkownika.   [67.86%]
+X01
+Rootkitem nazywa się wykonywalny program przekazany użytkownikowi w celu jego uruchomienia przez tego użytkownika.  [100.0%]
 PRAWDA
 FAŁSZ
